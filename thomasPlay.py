@@ -11,7 +11,7 @@ class Person(object):
 		self.emails += email
 
 class Date(object):
-	def __init__(day, month, year, dayOfWeek):
+	def __init__(day, month=None, year=None, dayOfWeek=None):
 		self.day = day
 		self.month = month
 		self.year = year
@@ -23,6 +23,12 @@ class Email(object):
 		self.date = date
 		self.subject = subject
 		self.text = text
+
+def getDateObjectFromString(dateString):
+	newDate = Date()
+	newDate.day = "DICKBUTT" #or something actual
+
+	return newDate
 
 def cleanData(fileName):
 	emails = list()
@@ -37,7 +43,7 @@ def cleanData(fileName):
 		myLine = myFile.readline()
 		if(myLine == ""):
 			break
-			
+
 		if myLine[0:5] == "From:":
 			# Start analysizing new email
 			wasLastLineFrom = False
