@@ -25,9 +25,7 @@ class Email(object):
 		self.text = text
 
 def getDateObjectFromString(dateString):
-	newDate = Date()
-	newDate.day = dateString
-	return newDate
+    print dateString
 
 def cleanData(fileName):
 	emails = list()
