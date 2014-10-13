@@ -1,4 +1,6 @@
 from bs4 import BeautifulSoup
+import numpy as np
+from indicoio import sentiment
 
 class Person(object):
 	def __init__(firstName, lastName, email):
@@ -66,15 +68,21 @@ def cleanData(fileName):
 				if emailLine[0:5] == "Date:" or emailLine[0:5] == "Sent:":
 					newEmail.date = getDateObjectFromString(emailLine)
 					continue
-				if emailLine[0:12] != "In-Reply-To:" and emailLine[0:11] != "References:" and emailLine[0:11] != "Message-ID:" and emailLine[0:39] != "-------------- next part --------------":
+				if emailLine[0:12] != "In-Reply-To:" and emailLine[0:11] != "References:" and emailLine[0:11] != "Message-ID:" and emailLine[0:39] != "-------------- next part --------------" and emailLine[0:1] != ">" and emailLine[0:1] != "<" and emailLine[0:5] != "From:" and emailLine[0:3] != "Cc:" and emailLine[0:3] != "To:" and emailLine[0:26] != "-----Original Message-----":
 					emailTextContent += emailLine
 			newEmail.text = emailTextContent
-			print newEmail
+			emails += [newEmail]
 
 	# print  data
 
 	# soup = BeautifulSoup(data)
 	# print(soup.get_text())
+	allEmailContent = ""
+	for anEmail in emails:
+		allEmailContent += anEmail.text
+
+	print allEmailContent
+	print sentiment(allEmailContent)
 
 def main():
 	cleanData("octover2014.txt")
