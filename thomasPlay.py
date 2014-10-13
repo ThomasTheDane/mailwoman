@@ -30,9 +30,21 @@ class Email(object):
 
 
 def getDateObjectFromString(dateString):
-	newDate = Date()
-	newDate.day = dateString
-	return newDate
+    if dateString[0:5] in ["Sent:", "Date:"]:
+        as_list = dateString.split()       
+        if "Sent:" in dateString:
+            day = dateString[3]
+            month = dateString[2]
+            year = dateString[4]
+            weekDay = dateString[1]
+        else:
+            day = dateString[2]
+            month = dateString[3]
+            year = dateString[4]
+            weekDay = dateString[1]
+        return Date(day, month, year, weekDay)
+    else:
+        return
 
 def cleanData(fileName):
 	emails = list()
