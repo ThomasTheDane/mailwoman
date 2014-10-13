@@ -26,8 +26,7 @@ class Email(object):
 
 def getDateObjectFromString(dateString):
 	newDate = Date()
-	newDate.day = "DICKBUTT" #or something actual
-
+	newDate.day = dateString
 	return newDate
 
 def cleanData(fileName):
@@ -49,12 +48,12 @@ def cleanData(fileName):
 			wasLastLineFrom = False
 
 			newEmail = Email(sender = myLine)
-			# dateString = my
+			
+			newEmail.date = getDateObjectFromString(myFile.readline())
 
 			isReadingNewEmail = True
 			while(isReadingNewEmail):
 				emailLine = myFile.readline()
-				print emailLine
 				if("-- next part ---" in myLine or myLine != ""):	
 					isReadingNewEmail = False
 
