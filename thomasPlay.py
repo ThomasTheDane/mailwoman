@@ -11,7 +11,7 @@ class Person(object):
 		self.emails += email
 
 class Date(object):
-	def __init__(day, month=None, year=None, dayOfWeek=None):
+	def __init__(self, day=None, month=None, year=None, dayOfWeek=None):
 		self.day = day
 		self.month = month
 		self.year = year
