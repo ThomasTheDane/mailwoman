@@ -23,6 +23,9 @@ class Email(object):
 		self.date = date
 		self.subject = subject
 		self.text = text
+	def __str__(self):
+		return "Subject: " + self.subject + "\nDate: " + self.date.day + "\nSender: " + self.sender + "\nText: " + self.text + "\n"
+
 
 def getDateObjectFromString(dateString):
 	newDate = Date()
@@ -48,15 +51,25 @@ def cleanData(fileName):
 			wasLastLineFrom = False
 
 			newEmail = Email(sender = myLine)
+
+			emailTextContent = ""
+			finishedReading = False
 			
-			newEmail.date = getDateObjectFromString(myFile.readline())
-
-			isReadingNewEmail = True
-			while(isReadingNewEmail):
+			while(not finishedReading):
 				emailLine = myFile.readline()
-				if("-- next part ---" in myLine or myLine != ""):	
-					isReadingNewEmail = False
-
+				# print emailLine
+				if("-- next part ---" in emailLine or emailLine == ""):	
+					finishedReading = True
+				if emailLine[0:8] == "Subject:":
+					newEmail.subject = emailLine[8:]
+					continue
+				if emailLine[0:5] == "Date:" or emailLine[0:5] == "Sent:":
+					newEmail.date = getDateObjectFromString(emailLine)
+					continue
+				if emailLine[0:12] != "In-Reply-To:" and emailLine[0:11] != "References:" and emailLine[0:11] != "Message-ID:" and emailLine[0:39] != "-------------- next part --------------":
+					emailTextContent += emailLine
+			newEmail.text = emailTextContent
+			print newEmail
 
 	# print  data
 
