@@ -53,7 +53,7 @@ def cleanData(fileName):
 	didEmailEnd = False
 	# for myLine in open("october2014.txt", 'r'):
 
-	myFile = open('october2014.txt', 'r')
+	myFile = open(fileName, 'r')
 
 	while(True):
 		myLine = myFile.readline()
@@ -84,20 +84,17 @@ def cleanData(fileName):
 					emailTextContent += emailLine
 			newEmail.text = emailTextContent
 			emails += [newEmail]
-
-	# print  data
-
-	# soup = BeautifulSoup(data)
-	# print(soup.get_text())
-	allEmailContent = ""
-	for anEmail in emails:
-		allEmailContent += anEmail.text
-
-	print allEmailContent
-	print sentiment(allEmailContent)
+	return emails
 
 def main():
-	cleanData("octover2014.txt")
+	octoberEmails = cleanData("october2014.txt")
+	septemberEmails = cleanData("september2014.txt")
+	augustEmails = cleanData("august2014.txt")
+	julyEmails = cleanData("july2014.txt")
+	juneEmails = cleanData("june2014.txt")
+	octoberSentiments = list()
+	for anEmail in septemberEmails:
+		print sentiment(anEmail.text)
 
 
 if __name__ == '__main__':

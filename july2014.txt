@@ -1,0 +1,1837 @@
+From William.Saulnier at students.olin.edu  Tue Jul  1 01:38:30 2014
+From: William.Saulnier at students.olin.edu (William Saulnier)
+Date: Tue, 1 Jul 2014 01:38:30 -0400
+Subject: [Carpediem] Cool New RSS Feed Service: ListMinder
+Message-ID: <DA80C3E6C10BE94E8FCACEB239C2FEE4013E85B53C42@EXVS01.olin.edu>
+
+Hello friends.
+
+With the advent of http://olin.slack.com , I've decided to finally get done one of my little ideas. I'm generating an RSS feed for the major mailing lists! This is mostly just for the slack channels that are centered around these lists, but if you're interested, currently both helpme and carpe are found at http://loltools.net/listminder/(listname)/rss.xml, so feel free to check em out. And, this email will post in about an hour to the slack channel for carpe! Which is also cool.
+
+Shoot any feedback my way, I'd love to hear what you have to say.
+
+-William
+
+From Evan.Simpson at students.olin.edu  Thu Jul  3 05:13:17 2014
+From: Evan.Simpson at students.olin.edu (Evan Simpson)
+Date: Thu, 3 Jul 2014 05:13:17 -0400
+Subject: [Carpediem] HackMIT
+Message-ID: <DA80C3E6C10BE94E8FCACEB239C2FEE4013E85F37BC0@EXVS01.olin.edu>
+
+Registration has just opened for fall, happening Oct 4-5.
+
+https://www.hackmit.org/
+
+It's a lottery system and it looks like they learned their lesson in internet security from us last year so get in now and cross your fingers.
+
+I've created a team so if you'd like to join me, after you fill out the application go to the teams page and use this team code d75634322cca70098940.
+
+Also, they were really hyping the opening of their registration saying 'we have surprises' and delayed it 2 days. No surprise announcement besides reg opening has been made so I'm guessing they're going to do some kind of Google I/O type eater egg hunt for invite codes to use in the 'secret code' field of the application.
+
+
+-Evan
+
+From Evan.Simpson at students.olin.edu  Thu Jul  3 08:52:57 2014
+From: Evan.Simpson at students.olin.edu (Evan Simpson)
+Date: Thu, 3 Jul 2014 08:52:57 -0400
+Subject: [Carpediem] HackMIT
+In-Reply-To: <DA80C3E6C10BE94E8FCACEB239C2FEE4013E85F37BC0@EXVS01.olin.edu>
+References: <DA80C3E6C10BE94E8FCACEB239C2FEE4013E85F37BC0@EXVS01.olin.edu>
+Message-ID: <DA80C3E6C10BE94E8FCACEB239C2FEE4013E85F37BC1@EXVS01.olin.edu>
+
+Follow up:
+
+Yes there is a puzzle hunt for get-out-of-lottery-free codes. The way they work is anyone who gets one automatically gets their entire team in.
+
+Oh and it looks like they didn't learn their lesson from last year. I have all 15 codes. They put them all together for anyone to distribute to others.
+
+Who wants to go to this hackathon?
+-Evan
+________________________________________
+From: Carpediem [carpediem-bounces at lists.olin.edu] On Behalf Of Evan Simpson
+Sent: Thursday, July 03, 2014 5:13 AM
+To: carpediem at lists.olin.edu
+Subject: [Carpediem] HackMIT
+
+Registration has just opened for fall, happening Oct 4-5.
+
+https://www.hackmit.org/
+
+It's a lottery system and it looks like they learned their lesson in internet security from us last year so get in now and cross your fingers.
+
+I've created a team so if you'd like to join me, after you fill out the application go to the teams page and use this team code d75634322cca70098940.
+
+Also, they were really hyping the opening of their registration saying 'we have surprises' and delayed it 2 days. No surprise announcement besides reg opening has been made so I'm guessing they're going to do some kind of Google I/O type eater egg hunt for invite codes to use in the 'secret code' field of the application.
+
+
+-Evan
+_______________________________________________
+Carpediem mailing list
+Carpediem at lists.olin.edu
+https://lists.olin.edu/mailman/listinfo/carpediem
+
+From ariana.chae at students.olin.edu  Thu Jul  3 11:55:09 2014
+From: ariana.chae at students.olin.edu (Ariana Chae)
+Date: Thu, 3 Jul 2014 10:55:09 -0500
+Subject: [Carpediem] Looking for Male Research Subjects
+Message-ID: <CAHT-TTBqG7-_KSdPHAH8dPSC8bXibhMB3gbtT=cVGnQRtnHw-Q@mail.gmail.com>
+
+Hey males in the Boston area,
+
+Are you free 7/31 and 8/1 and want to make an easy $200 by participating in
+a non-invasive research study?
+
+Let me know!
+
+Thanks,
+Ari
+-------------- next part --------------
+<div dir="ltr">Hey males in the Boston area,<div><br></div><div>Are you free 7/31 and 8/1 and want to make an easy $200 by participating in a non-invasive research study?<br></div><div><br></div><div>Let me know!</div><div>
+
+<br></div><div>Thanks,</div><div>Ari</div></div>
+
+From ariana.chae at students.olin.edu  Thu Jul  3 16:18:46 2014
+From: ariana.chae at students.olin.edu (Ariana Chae)
+Date: Thu, 3 Jul 2014 15:18:46 -0500
+Subject: [Carpediem] Looking for Male Research Subjects
+In-Reply-To: <CAHT-TTBqG7-_KSdPHAH8dPSC8bXibhMB3gbtT=cVGnQRtnHw-Q@mail.gmail.com>
+References: <CAHT-TTBqG7-_KSdPHAH8dPSC8bXibhMB3gbtT=cVGnQRtnHw-Q@mail.gmail.com>
+Message-ID: <CAHT-TTCqOvgSpko1Kn6BvpWf7zktdekXqONoeFGiKf-i8thdrg@mail.gmail.com>
+
+Resolved! Thanks all.
+
+Sent via phablet.
+On Jul 3, 2014 10:55 AM, "Ariana Chae" <ariana.chae at students.olin.edu>
+wrote:
+
+> Hey males in the Boston area,
+>
+> Are you free 7/31 and 8/1 and want to make an easy $200 by participating
+> in a non-invasive research study?
+>
+> Let me know!
+>
+> Thanks,
+> Ari
+>
+-------------- next part --------------
+<p dir="ltr">Resolved! Thanks all. </p>
+<p dir="ltr">Sent via phablet. </p>
+<div class="gmail_quote">On Jul 3, 2014 10:55 AM, &quot;Ariana Chae&quot; &lt;<a href="mailto:ariana.chae at students.olin.edu">ariana.chae at students.olin.edu</a>&gt; wrote:<br type="attribution"><blockquote class="gmail_quote" style="margin:0 0 0 .8ex;border-left:1px #ccc solid;padding-left:1ex">
+<div dir="ltr">Hey males in the Boston area,<div><br></div><div>Are you free 7/31 and 8/1 and want to make an easy $200 by participating in a non-invasive research study?<br></div><div><br></div><div>Let me know!</div><div>
+
+<br></div><div>Thanks,</div><div>Ari</div></div>
+</blockquote></div>
+
+From Jennifer.Wei at students.olin.edu  Tue Jul  8 17:47:59 2014
+From: Jennifer.Wei at students.olin.edu (Jennifer Wei)
+Date: Tue, 8 Jul 2014 17:47:59 -0400
+Subject: [Carpediem] Interested in SASE?
+Message-ID: <DA80C3E6C10BE94E8FCACEB239C2FEE4013E86705437@EXVS01.olin.edu>
+
+Hi Carpe!
+
+
+
+You probably received an email recently about the upcoming Society of Asian Scientists and Engineers (SASE) Career Fair in October. Want to know more about SASE?
+
+
+
+Let me know by clicking here<https://docs.google.com/forms/d/1fWLpmLrckkoSF-jCTJShatuVKYhwNySdwk_xOyWwFTE/viewform> and filling in your name (or you can reply to this email if you prefer that). We'll send you a reminder to attend our first meeting and keep you updated on SASE news!
+
+
+
+Thanks (and sorry for the spam). Hope you're all enjoying your summer!
+
+
+
+Jennifer, on behalf of Olin SASE
+
+-------------- next part --------------
+<html xmlns:v="urn:schemas-microsoft-com:vml" xmlns:o="urn:schemas-microsoft-com:office:office" xmlns:w="urn:schemas-microsoft-com:office:word" xmlns:m="http://schemas.microsoft.com/office/2004/12/omml" xmlns="http://www.w3.org/TR/REC-html40"><head><META HTTP-EQUIV="Content-Type" CONTENT="text/html; charset=us-ascii"><meta name=Generator content="Microsoft Word 14 (filtered medium)"><style><!--
+/* Font Definitions */
+@font-face
+	{font-family:"Cambria Math";
+	panose-1:2 4 5 3 5 4 6 3 2 4;}
+@font-face
+	{font-family:Calibri;
+	panose-1:2 15 5 2 2 2 4 3 2 4;}
+/* Style Definitions */
+p.MsoNormal, li.MsoNormal, div.MsoNormal
+	{margin:0in;
+	margin-bottom:.0001pt;
+	font-size:11.0pt;
+	font-family:"Calibri","sans-serif";}
+a:link, span.MsoHyperlink
+	{mso-style-priority:99;
+	color:blue;
+	text-decoration:underline;}
+a:visited, span.MsoHyperlinkFollowed
+	{mso-style-priority:99;
+	color:purple;
+	text-decoration:underline;}
+p.MsoPlainText, li.MsoPlainText, div.MsoPlainText
+	{mso-style-priority:99;
+	mso-style-link:"Plain Text Char";
+	margin:0in;
+	margin-bottom:.0001pt;
+	font-size:11.0pt;
+	font-family:"Calibri","sans-serif";}
+span.EmailStyle17
+	{mso-style-type:personal-compose;
+	font-family:"Calibri","sans-serif";
+	color:windowtext;}
+span.PlainTextChar
+	{mso-style-name:"Plain Text Char";
+	mso-style-priority:99;
+	mso-style-link:"Plain Text";
+	font-family:"Calibri","sans-serif";}
+.MsoChpDefault
+	{mso-style-type:export-only;
+	font-family:"Calibri","sans-serif";}
+@page WordSection1
+	{size:8.5in 11.0in;
+	margin:1.0in 1.0in 1.0in 1.0in;}
+div.WordSection1
+	{page:WordSection1;}
+--></style><!--[if gte mso 9]><xml>
+<o:shapedefaults v:ext="edit" spidmax="1026" />
+</xml><![endif]--><!--[if gte mso 9]><xml>
+<o:shapelayout v:ext="edit">
+<o:idmap v:ext="edit" data="1" />
+</o:shapelayout></xml><![endif]--></head><body lang=EN-US link=blue vlink=purple><div class=WordSection1><p class=MsoPlainText><span style='font-size:25.0pt'>Hi Carpe!<o:p></o:p></span></p><p class=MsoPlainText><span style='font-size:12.0pt'><o:p>&nbsp;</o:p></span></p><p class=MsoPlainText><span style='font-size:12.0pt'>You probably received an </span><span style='font-size:20.0pt;color:#00B0F0'>email</span><span style='font-size:12.0pt'> recently about the upcoming Society of Asian Scientists and Engineers </span><span style='font-size:20.0pt;color:#00B050'>(SASE)</span><span style='font-size:12.0pt;color:#00B050'> </span><b><u><span style='font-size:15.0pt'>Career Fair</span></u></b><span style='font-size:12.0pt'> in </span><span style='font-size:20.0pt;color:#E46C0A;background:black;mso-highlight:black'>October</span><span style='font-size:12.0pt'>. Want to know more about SASE?<o:p></o:p></span></p><p class=MsoPlainText><span style='font-size:12.0pt'><o:p>&nbsp;</o:p></span></p><p class=MsoPlainText><b><span style='font-size:20.0pt;background:yellow;mso-highlight:yellow'>Let me know</span></b><b><span style='font-size:12.0pt'> by clicking</span></b><b><span style='font-size:20.0pt'> <a href="https://docs.google.com/forms/d/1fWLpmLrckkoSF-jCTJShatuVKYhwNySdwk_xOyWwFTE/viewform">here</a></span></b><b><span style='font-size:12.0pt'> and filling in your name</span></b><span style='font-size:12.0pt'> (or you can </span><b><span style='font-size:15.0pt'>reply </span></b><b><span style='font-size:12.0pt'>to this email if you prefer that</span></b><span style='font-size:12.0pt'>). We&#8217;ll <span style='background:yellow;mso-highlight:yellow'>send you a </span></span><u><span style='font-size:20.0pt;background:yellow;mso-highlight:yellow'>reminder</span></u><span style='font-size:12.0pt'> to attend our </span><span style='font-size:25.0pt;color:red;background:silver;mso-highlight:silver'>f</span><span style='font-size:25.0pt;color:#FFC000;background:silver;mso-highlight:silver'>i</span><span style='font-size:25.0pt;color:yellow;background:silver;mso-highlight:silver'>r</span><span style='font-size:25.0pt;color:#00B050;background:silver;mso-highlight:silver'>s</span><span style='font-size:25.0pt;color:#0070C0;background:silver;mso-highlight:silver'>t</span><span style='font-size:25.0pt;background:silver;mso-highlight:silver'> meeting</span><span style='font-size:12.0pt'> and </span><b><span style='font-size:15.0pt'>keep you updated</span></b><span style='font-size:15.0pt'> </span><span style='font-size:12.0pt'>on SASE news! <o:p></o:p></span></p><p class=MsoPlainText><span style='font-size:12.0pt'><o:p>&nbsp;</o:p></span></p><p class=MsoPlainText><span style='font-size:12.0pt'>Thanks (and sorry for the spam). Hope you&#8217;re all enjoying your </span><span style='font-size:15.0pt;color:red'>s</span><span style='font-size:15.0pt;color:#E46C0A'>u</span><span style='font-size:15.0pt;color:#FFC000'>m</span><span style='font-size:15.0pt;color:red'>m</span><span style='font-size:15.0pt;color:#F79646'>e</span><span style='font-size:15.0pt;color:#FFC000'>r</span><span style='font-size:12.0pt'>!<o:p></o:p></span></p><p class=MsoPlainText><span style='font-size:12.0pt'><o:p>&nbsp;</o:p></span></p><p class=MsoPlainText><span style='font-size:12.0pt'>Jennifer, on behalf of </span><span style='font-size:15.0pt;color:#D9D9D9;background:blue;mso-highlight:blue'>Olin SASE</span><span style='font-size:12.0pt'><o:p></o:p></span></p><p class=MsoNormal><o:p>&nbsp;</o:p></p></div></body></html>
+
+From ian.daniher at students.olin.edu  Wed Jul  9 09:59:18 2014
+From: ian.daniher at students.olin.edu (Ian Daniher)
+Date: Wed, 9 Jul 2014 09:59:18 -0400
+Subject: [Carpediem] HOPE-X?
+Message-ID: <CAHMjM1oEZUjOy-SK8uD+6aDu6e1zGW=pVuE1N6Tv7AS5Mzf=1w@mail.gmail.com>
+
+Anyone else going to Hackers On Planet Earth in NYC July 18-20?
+-------------- next part --------------
+<div dir="ltr">Anyone else going to Hackers On Planet Earth in NYC July 18-20?</div>
+
+From Kimly.Do at students.olin.edu  Wed Jul  9 13:38:59 2014
+From: Kimly.Do at students.olin.edu (Kimly Do)
+Date: Wed, 9 Jul 2014 13:38:59 -0400
+Subject: [Carpediem] Spreadsheet for course planning
+Message-ID: <DA80C3E6C10BE94E8FCACEB239C2FEE401528835010F@EXVS01.olin.edu>
+
+tldr:
+
+Hey all-
+
+I was cleaning when I came across this spreadsheet I was given as a sophomore for course planning.
+It's filled out for MechE now.
+and I've made some edits because I'm bad at using excel, but you might find it useful.
+
+
+
+
+tldr: spreadsheet so you know you can graduate
+-------------- next part --------------
+A non-text attachment was scrubbed...
+Name: life planning.xlsx
+Type: application/vnd.openxmlformats-officedocument.spreadsheetml.sheet
+Size: 15397 bytes
+Desc: life planning.xlsx
+URL: <https://lists.olin.edu/mailman/private/carpediem/attachments/20140709/c62c7b0a/attachment.xlsx>
+
+From gewirtca at rose-hulman.edu  Thu Jul 10 08:24:29 2014
+From: gewirtca at rose-hulman.edu (Gewirtz, Christopher A)
+Date: Thu, 10 Jul 2014 12:24:29 +0000
+Subject: [Carpediem] Humans Vs Zombies
+Message-ID: <833630E3682E3248B67673A155291043E769FBFF@exchmb-cra-1.rose-hulman.edu>
+
+HI,
+Last email About Humans Vs Zombies.
+We're meeting in the Auditorium THIS SUNDAY at 7:30 PM.
+The game is now set to end at 11:15 instead of 12:00, and the maximum team size has been reduced to four.
+Flashlights will not be an absolute necessity but bring them if you have them.
+See you Sunday!
+-Chris
+
+[cid:image001.png at 01CF9C18.40E6F620]
+
+
+-------------- next part --------------
+<html xmlns:v="urn:schemas-microsoft-com:vml" xmlns:o="urn:schemas-microsoft-com:office:office" xmlns:w="urn:schemas-microsoft-com:office:word" xmlns:m="http://schemas.microsoft.com/office/2004/12/omml" xmlns="http://www.w3.org/TR/REC-html40">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=us-ascii">
+<meta name="Generator" content="Microsoft Word 15 (filtered medium)">
+<!--[if !mso]><style>v\:* {behavior:url(#default#VML);}
+o\:* {behavior:url(#default#VML);}
+w\:* {behavior:url(#default#VML);}
+.shape {behavior:url(#default#VML);}
+</style><![endif]--><style><!--
+/* Font Definitions */
+@font-face
+	{font-family:"Cambria Math";
+	panose-1:2 4 5 3 5 4 6 3 2 4;}
+@font-face
+	{font-family:Calibri;
+	panose-1:2 15 5 2 2 2 4 3 2 4;}
+/* Style Definitions */
+p.MsoNormal, li.MsoNormal, div.MsoNormal
+	{margin:0in;
+	margin-bottom:.0001pt;
+	font-size:11.0pt;
+	font-family:"Calibri","sans-serif";}
+a:link, span.MsoHyperlink
+	{mso-style-priority:99;
+	color:#0563C1;
+	text-decoration:underline;}
+a:visited, span.MsoHyperlinkFollowed
+	{mso-style-priority:99;
+	color:#954F72;
+	text-decoration:underline;}
+span.EmailStyle17
+	{mso-style-type:personal;
+	font-family:"Calibri","sans-serif";
+	color:windowtext;}
+span.EmailStyle18
+	{mso-style-type:personal-reply;
+	font-family:"Calibri","sans-serif";
+	color:#1F497D;}
+.MsoChpDefault
+	{mso-style-type:export-only;
+	font-size:10.0pt;}
+@page WordSection1
+	{size:8.5in 11.0in;
+	margin:1.0in 1.0in 1.0in 1.0in;}
+div.WordSection1
+	{page:WordSection1;}
+--></style><!--[if gte mso 9]><xml>
+<o:shapedefaults v:ext="edit" spidmax="1026" />
+</xml><![endif]--><!--[if gte mso 9]><xml>
+<o:shapelayout v:ext="edit">
+<o:idmap v:ext="edit" data="1" />
+</o:shapelayout></xml><![endif]-->
+</head>
+<body lang="EN-US" link="#0563C1" vlink="#954F72">
+<div class="WordSection1">
+<p class="MsoNormal"><span style="color:#1F497D">HI,<o:p></o:p></span></p>
+<p class="MsoNormal"><span style="color:#1F497D">Last email About Humans Vs Zombies.<o:p></o:p></span></p>
+<p class="MsoNormal"><span style="color:#1F497D">We&#8217;re meeting in the Auditorium THIS SUNDAY at 7:30 PM.<o:p></o:p></span></p>
+<p class="MsoNormal"><span style="color:#1F497D">The game is now set to end at 11:15 instead of 12:00, and the maximum team size has been reduced to four.<o:p></o:p></span></p>
+<p class="MsoNormal"><span style="color:#1F497D">Flashlights will not be an absolute necessity but bring them if you have them.<o:p></o:p></span></p>
+<p class="MsoNormal"><span style="color:#1F497D">See you Sunday!<o:p></o:p></span></p>
+<p class="MsoNormal"><span style="color:#1F497D">-Chris<o:p></o:p></span></p>
+<p class="MsoNormal"><span style="color:#1F497D"><o:p>&nbsp;</o:p></span></p>
+<p class="MsoNormal"><img width="553" height="616" id="Picture_x0020_1" src="cid:image001.png at 01CF9C18.40E6F620" alt="cid:image001.png at 01CF9C18.40E6F620"><span style="color:#1F497D"><o:p></o:p></span></p>
+<p class="MsoNormal"><span style="color:#1F497D"><o:p>&nbsp;</o:p></span></p>
+<p class="MsoNormal"><span style="color:#1F497D"><o:p>&nbsp;</o:p></span></p>
+</div>
+</body>
+</html>
+-------------- next part --------------
+A non-text attachment was scrubbed...
+Name: image001.png
+Type: image/png
+Size: 39708 bytes
+Desc: image001.png
+URL: <https://lists.olin.edu/mailman/private/carpediem/attachments/20140710/384b25a5/attachment.png>
+
+From Victoria.Preston at students.olin.edu  Thu Jul 10 11:09:00 2014
+From: Victoria.Preston at students.olin.edu (Victoria Preston)
+Date: Thu, 10 Jul 2014 11:09:00 -0400
+Subject: [Carpediem] Redesigning the Honor Code Shirts
+Message-ID: <DA80C3E6C10BE94E8FCACEB239C2FEE40152880119B9@EXVS01.olin.edu>
+
+Happy summer carpe!
+
+The honor board is thinking about changing the honor code shirts up, and we're looking for designs/ideas from the Olin community to make it happen!
+
+Have an idea for a new shirt design?  Passionately think it should stay the same?  Have a good eye for colors?  Please email me!
+
+We have a hard deadline of August 1st, so we'd appreciate your input sooner rather than later.
+
+Thanks folks,
+V
+-------------- next part --------------
+<html xmlns:v="urn:schemas-microsoft-com:vml" xmlns:o="urn:schemas-microsoft-com:office:office" xmlns:w="urn:schemas-microsoft-com:office:word" xmlns:m="http://schemas.microsoft.com/office/2004/12/omml" xmlns="http://www.w3.org/TR/REC-html40"><head><META HTTP-EQUIV="Content-Type" CONTENT="text/html; charset=us-ascii"><meta name=Generator content="Microsoft Word 14 (filtered medium)"><style><!--
+/* Font Definitions */
+@font-face
+	{font-family:"Cambria Math";
+	panose-1:2 4 5 3 5 4 6 3 2 4;}
+@font-face
+	{font-family:Calibri;
+	panose-1:2 15 5 2 2 2 4 3 2 4;}
+/* Style Definitions */
+p.MsoNormal, li.MsoNormal, div.MsoNormal
+	{margin:0in;
+	margin-bottom:.0001pt;
+	font-size:11.0pt;
+	font-family:"Calibri","sans-serif";}
+a:link, span.MsoHyperlink
+	{mso-style-priority:99;
+	color:blue;
+	text-decoration:underline;}
+a:visited, span.MsoHyperlinkFollowed
+	{mso-style-priority:99;
+	color:purple;
+	text-decoration:underline;}
+span.EmailStyle17
+	{mso-style-type:personal-compose;
+	font-family:"Calibri","sans-serif";
+	color:windowtext;}
+.MsoChpDefault
+	{mso-style-type:export-only;
+	font-family:"Calibri","sans-serif";}
+@page WordSection1
+	{size:8.5in 11.0in;
+	margin:1.0in 1.0in 1.0in 1.0in;}
+div.WordSection1
+	{page:WordSection1;}
+--></style><!--[if gte mso 9]><xml>
+<o:shapedefaults v:ext="edit" spidmax="1026" />
+</xml><![endif]--><!--[if gte mso 9]><xml>
+<o:shapelayout v:ext="edit">
+<o:idmap v:ext="edit" data="1" />
+</o:shapelayout></xml><![endif]--></head><body lang=EN-US link=blue vlink=purple><div class=WordSection1><p class=MsoNormal>Happy summer carpe!<o:p></o:p></p><p class=MsoNormal><o:p>&nbsp;</o:p></p><p class=MsoNormal>The honor board is thinking about changing the honor code shirts up, and we&#8217;re looking for designs/ideas from the Olin community to make it happen!&nbsp; <o:p></o:p></p><p class=MsoNormal><o:p>&nbsp;</o:p></p><p class=MsoNormal>Have an idea for a new shirt design?&nbsp; Passionately think it should stay the same?&nbsp; Have a good eye for colors?&nbsp; Please email me!&nbsp; <o:p></o:p></p><p class=MsoNormal><o:p>&nbsp;</o:p></p><p class=MsoNormal>We have a hard deadline of <b>August 1<sup>st</sup></b>, so we&#8217;d appreciate your input sooner rather than later.<o:p></o:p></p><p class=MsoNormal><o:p>&nbsp;</o:p></p><p class=MsoNormal>Thanks folks,<o:p></o:p></p><p class=MsoNormal>V<o:p></o:p></p></div></body></html>
+
+From Margaret.Lidrbauch at students.olin.edu  Thu Jul 10 13:28:18 2014
+From: Margaret.Lidrbauch at students.olin.edu (Margaret Lidrbauch)
+Date: Thu, 10 Jul 2014 13:28:18 -0400
+Subject: [Carpediem] WANT A MINI FRIDGE AND/OR A MICROWAVE?
+Message-ID: <DA80C3E6C10BE94E8FCACEB239C2FEE40152880119E2@EXVS01.olin.edu>
+
+Are you an ECE or like playing around with electronics/appliances? Want to try to fix a microwave and/or a mini fridge? If you want to try to fix them, they're yours! They are on the 4th floor of the AC by 428 with "TRASH" signs on them, so if you want them, act quickly!
+
+Sent on behalf of Jon Stolk.
+
+
+-------------- next part --------------
+<html xmlns:v="urn:schemas-microsoft-com:vml" xmlns:o="urn:schemas-microsoft-com:office:office" xmlns:w="urn:schemas-microsoft-com:office:word" xmlns:m="http://schemas.microsoft.com/office/2004/12/omml" xmlns="http://www.w3.org/TR/REC-html40"><head><META HTTP-EQUIV="Content-Type" CONTENT="text/html; charset=us-ascii"><meta name=Generator content="Microsoft Word 14 (filtered medium)"><style><!--
+/* Font Definitions */
+@font-face
+	{font-family:"Cambria Math";
+	panose-1:2 4 5 3 5 4 6 3 2 4;}
+@font-face
+	{font-family:Calibri;
+	panose-1:2 15 5 2 2 2 4 3 2 4;}
+@font-face
+	{font-family:Tahoma;
+	panose-1:2 11 6 4 3 5 4 4 2 4;}
+/* Style Definitions */
+p.MsoNormal, li.MsoNormal, div.MsoNormal
+	{margin:0in;
+	margin-bottom:.0001pt;
+	font-size:11.0pt;
+	font-family:"Calibri","sans-serif";}
+a:link, span.MsoHyperlink
+	{mso-style-priority:99;
+	color:blue;
+	text-decoration:underline;}
+a:visited, span.MsoHyperlinkFollowed
+	{mso-style-priority:99;
+	color:purple;
+	text-decoration:underline;}
+p.MsoAcetate, li.MsoAcetate, div.MsoAcetate
+	{mso-style-priority:99;
+	mso-style-link:"Balloon Text Char";
+	margin:0in;
+	margin-bottom:.0001pt;
+	font-size:8.0pt;
+	font-family:"Tahoma","sans-serif";}
+span.EmailStyle17
+	{mso-style-type:personal-compose;
+	font-family:"Calibri","sans-serif";
+	color:windowtext;}
+span.BalloonTextChar
+	{mso-style-name:"Balloon Text Char";
+	mso-style-priority:99;
+	mso-style-link:"Balloon Text";
+	font-family:"Tahoma","sans-serif";}
+.MsoChpDefault
+	{mso-style-type:export-only;
+	font-family:"Calibri","sans-serif";}
+@page WordSection1
+	{size:8.5in 11.0in;
+	margin:1.0in 1.0in 1.0in 1.0in;}
+div.WordSection1
+	{page:WordSection1;}
+--></style><!--[if gte mso 9]><xml>
+<o:shapedefaults v:ext="edit" spidmax="1026" />
+</xml><![endif]--><!--[if gte mso 9]><xml>
+<o:shapelayout v:ext="edit">
+<o:idmap v:ext="edit" data="1" />
+</o:shapelayout></xml><![endif]--></head><body lang=EN-US link=blue vlink=purple><div class=WordSection1><p class=MsoNormal>Are you an ECE or like playing around with electronics/appliances? Want to try to fix a microwave and/or a mini fridge? If you want to try to fix them, they&#8217;re yours! They are on the 4<sup>th</sup> floor of the AC by 428 with &#8220;TRASH&#8221; signs on them, so if you want them, act quickly! <o:p></o:p></p><p class=MsoNormal><o:p>&nbsp;</o:p></p><p class=MsoNormal>Sent on behalf of Jon Stolk. <o:p></o:p></p><p class=MsoNormal><o:p>&nbsp;</o:p></p><p class=MsoNormal><o:p>&nbsp;</o:p></p></div></body></html>
+
+From Anne.LoVerso at students.olin.edu  Thu Jul 10 21:23:53 2014
+From: Anne.LoVerso at students.olin.edu (Anne LoVerso)
+Date: Thu, 10 Jul 2014 21:23:53 -0400
+Subject: [Carpediem] Olin GISHWHES team
+In-Reply-To: <DA80C3E6C10BE94E8FCACEB239C2FEE401528807335D@EXVS01.olin.edu>
+References: <DA80C3E6C10BE94E8FCACEB239C2FEE401528807335D@EXVS01.olin.edu>
+Message-ID: <DA80C3E6C10BE94E8FCACEB239C2FEE401528807335E@EXVS01.olin.edu>
+
+HEY OLINERS!
+We made an Olin GISHWHES team. For those who don't know, that's the
+Greatest International Scavenger Hunt the World Has Ever Seen. It's a weeklong
+crazy awesome photo scavenger hunt that you can participate in from any location.
+
+And we need team members! Go to https://www.gishwhes.com/ to register and join the team
+OlinSAC (stands for Olin Scavenging Across the Country). Invite Oliners!
+And invite your new Sibbs! It's a great way to get to know 2018ers.
+About 10 days left to register!
+
+Anne
+
+From Cecelia.Auerswald at students.olin.edu  Sat Jul 12 15:08:28 2014
+From: Cecelia.Auerswald at students.olin.edu (Cecelia Auerswald)
+Date: Sat, 12 Jul 2014 15:08:28 -0400
+Subject: [Carpediem] Couch for next semester
+Message-ID: <DA80C3E6C10BE94E8FCACEB239C2FEE401528807F07F@EXVS01.olin.edu>
+
+Hi carpe,
+
+I'm going to be taking an LOA next semester, so I need someone to look after my futon/sofabed/couch for a semester. 
+
+Its about 8 ft long, can be opened up into a bed or kept in a couch, dark purple, and pretty (but not incredibly) comfortable to sleep/sit on (I've been doing so all summer). 
+
+If you're interested in owning it for a semester, just let me know!
+
+Thanks!
+
+Cecelia A.
+
+From Cecelia.Auerswald at students.olin.edu  Sat Jul 12 15:12:33 2014
+From: Cecelia.Auerswald at students.olin.edu (Cecelia Auerswald)
+Date: Sat, 12 Jul 2014 15:12:33 -0400
+Subject: [Carpediem] REsolved: Couch for next semester
+In-Reply-To: <DA80C3E6C10BE94E8FCACEB239C2FEE401528807F07F@EXVS01.olin.edu>
+References: <DA80C3E6C10BE94E8FCACEB239C2FEE401528807F07F@EXVS01.olin.edu>
+Message-ID: <DA80C3E6C10BE94E8FCACEB239C2FEE401528807F084@EXVS01.olin.edu>
+
+Resolved :)
+________________________________________
+From: Carpediem [carpediem-bounces at lists.olin.edu] On Behalf Of Cecelia Auerswald
+Sent: Saturday, July 12, 2014 3:08 PM
+To: carpediem at lists.olin.edu
+Subject: [Carpediem] Couch for next semester
+
+Hi carpe,
+
+I'm going to be taking an LOA next semester, so I need someone to look after my futon/sofabed/couch for a semester.
+
+Its about 8 ft long, can be opened up into a bed or kept in a couch, dark purple, and pretty (but not incredibly) comfortable to sleep/sit on (I've been doing so all summer).
+
+If you're interested in owning it for a semester, just let me know!
+
+Thanks!
+
+Cecelia A.
+_______________________________________________
+Carpediem mailing list
+Carpediem at lists.olin.edu
+https://lists.olin.edu/mailman/listinfo/carpediem
+
+From Shane.Skikne at students.olin.edu  Mon Jul 14 15:05:18 2014
+From: Shane.Skikne at students.olin.edu (Shane Skikne)
+Date: Mon, 14 Jul 2014 15:05:18 -0400
+Subject: [Carpediem] Work@Facebook
+Message-ID: <DA80C3E6C10BE94E8FCACEB239C2FEE40152883C0EC3@EXVS01.olin.edu>
+
+Hello!
+I'm at Facebook for the summer and it is awesome. They're looking for any people I'd like to refer for next year or beyond. If you're interested in Facebook for next summer or beyond, just shoot me and an email and I can pass on your email address and name. No resume needed. 
+Shane
+
+From JiHyung.Hong at students.olin.edu  Mon Jul 14 16:13:00 2014
+From: JiHyung.Hong at students.olin.edu (Ji Hyung Hong)
+Date: Mon, 14 Jul 2014 16:13:00 -0400
+Subject: [Carpediem] tutoring in Needham
+Message-ID: <DA80C3E6C10BE94E8FCACEB239C2FEE40152887C5B8B@EXVS01.olin.edu>
+
+If anyone wants a side job during the school year-- it's once a week and seems fairly easy. Feel free to contact her directly!
+
+"Hi, I am looking for math tutor for my daughter who will be going to 4th grade this fall. She is advance student and love challenge. I do need tutor to pick her up from bus stop 2 houses down from our house at 3:15 on Tuesdays and bring her home and tutor. Is this something you can do? We live in Needham. 
+
+You can share my email address
+sonalik18 at members.care.com
+and my cell number 781 742 5844"
+
+Best of luck,
+Suz
+
+From Maor.Bernstein at students.olin.edu  Mon Jul 14 17:43:15 2014
+From: Maor.Bernstein at students.olin.edu (Maor Bernstein)
+Date: Mon, 14 Jul 2014 17:43:15 -0400
+Subject: [Carpediem] tutoring in Needham [RESOLVED]
+Message-ID: <DA80C3E6C10BE94E8FCACEB239C2FEE4015288011C33@EXVS01.olin.edu>
+
+Resolved
+
+-----Original Message-----
+From: Carpediem [mailto:carpediem-bounces at lists.olin.edu] On Behalf Of Ji Hyung Hong
+Sent: Monday, July 14, 2014 4:13 PM
+To: carpediem at lists.olin.edu; summer at lists.olin.edu
+Subject: [Carpediem] tutoring in Needham
+
+If anyone wants a side job during the school year-- it's once a week and seems fairly easy. Feel free to contact her directly!
+
+"Hi, I am looking for math tutor for my daughter who will be going to 4th grade this fall. She is advance student and love challenge. I do need tutor to pick her up from bus stop 2 houses down from our house at 3:15 on Tuesdays and bring her home and tutor. Is this something you can do? We live in Needham. 
+
+You can share my email address
+sonalik18 at members.care.com
+and my cell number 781 742 5844"
+
+Best of luck,
+Suz
+_______________________________________________
+Carpediem mailing list
+Carpediem at lists.olin.edu
+https://lists.olin.edu/mailman/listinfo/carpediem
+
+From Debbie.Chachra at olin.edu  Tue Jul 15 12:55:27 2014
+From: Debbie.Chachra at olin.edu (Debbie Chachra)
+Date: Tue, 15 Jul 2014 12:55:27 -0400
+Subject: [Carpediem] carpe sofabed (free, pick up in Cambridge)
+Message-ID: <74EC63270F70E84EBE31C4588324B47601039C6A6694@EXVS01.olin.edu>
+
+tl; dr: IKEA loveseat sofabed, black, functional and comfortable but a bit beat up, free (must pick up).
+I have sadly realized I need to replace my sofabed. It's perfectly comfortable and functional, but it's starting to look a bit ratty-the upholstery is starting to rip in places. I'd still mostly rather see it get used than put it out in the trash. You'd have to pick it up from Central Square, Cambridge.
+
+Let me know if you're interested. Photos and exact dimensions available on request.
+
+
+
+
+
+-------------- next part --------------
+<html xmlns:v="urn:schemas-microsoft-com:vml" xmlns:o="urn:schemas-microsoft-com:office:office" xmlns:w="urn:schemas-microsoft-com:office:word" xmlns:m="http://schemas.microsoft.com/office/2004/12/omml" xmlns="http://www.w3.org/TR/REC-html40"><head><meta http-equiv=Content-Type content="text/html; charset=us-ascii"><meta name=Generator content="Microsoft Word 14 (filtered medium)"><style><!--
+/* Font Definitions */
+@font-face
+	{font-family:Calibri;
+	panose-1:2 15 5 2 2 2 4 3 2 4;}
+/* Style Definitions */
+p.MsoNormal, li.MsoNormal, div.MsoNormal
+	{margin:0in;
+	margin-bottom:.0001pt;
+	font-size:11.0pt;
+	font-family:"Calibri","sans-serif";}
+a:link, span.MsoHyperlink
+	{mso-style-priority:99;
+	color:blue;
+	text-decoration:underline;}
+a:visited, span.MsoHyperlinkFollowed
+	{mso-style-priority:99;
+	color:purple;
+	text-decoration:underline;}
+span.EmailStyle17
+	{mso-style-type:personal-compose;
+	font-family:"Calibri","sans-serif";
+	color:windowtext;}
+.MsoChpDefault
+	{mso-style-type:export-only;
+	font-family:"Calibri","sans-serif";}
+@page WordSection1
+	{size:8.5in 11.0in;
+	margin:1.0in 1.0in 1.0in 1.0in;}
+div.WordSection1
+	{page:WordSection1;}
+--></style><!--[if gte mso 9]><xml>
+<o:shapedefaults v:ext="edit" spidmax="1026" />
+</xml><![endif]--><!--[if gte mso 9]><xml>
+<o:shapelayout v:ext="edit">
+<o:idmap v:ext="edit" data="1" />
+</o:shapelayout></xml><![endif]--></head><body lang=EN-US link=blue vlink=purple><div class=WordSection1><p class=MsoNormal><b>tl; dr: IKEA loveseat sofabed, black, functional and comfortable but a bit beat up, free (must pick up).<o:p></o:p></b></p><p class=MsoNormal> <o:p></o:p></p><p class=MsoNormal>I have sadly realized I need to replace my sofabed. It&#8217;s perfectly comfortable and functional, but it&#8217;s starting to look a bit ratty&#8212;the upholstery is starting to rip in places. I&#8217;d still mostly rather see it get used than put it out in the trash. You&#8217;d have to pick it up from Central Square, Cambridge.<o:p></o:p></p><p class=MsoNormal><o:p>&nbsp;</o:p></p><p class=MsoNormal>Let me know if you&#8217;re interested. Photos and exact dimensions available on request.<o:p></o:p></p><p class=MsoNormal><o:p>&nbsp;</o:p></p><p class=MsoNormal><o:p>&nbsp;</o:p></p><p class=MsoNormal><o:p>&nbsp;</o:p></p><p class=MsoNormal><o:p>&nbsp;</o:p></p><p class=MsoNormal><o:p>&nbsp;</o:p></p></div></body></html>
+
+From santosresearch2014 at gmail.com  Tue Jul 15 16:00:18 2014
+From: santosresearch2014 at gmail.com (Santos Research)
+Date: Tue, 15 Jul 2014 16:00:18 -0400
+Subject: [Carpediem] Help Santos Research at Olin
+Message-ID: <CALDVgKR5XSF3a6yqgdwUtbDrVmJ_xV142mjyTMaWToQCTYHxSw@mail.gmail.com>
+
+Greetings!
+
+The Santos Summer Research team again, and this time we?re looking for you
+and people you know to help us refine some ideas!
+
+Specifically we are looking for people who fit one or more of the following
+categories:
+
+
+   -
+
+   Taxi drivers (Uber, Lyft included!), Mailmen, and couriers
+   -
+
+   Long distance commuters (50+ miles a day)
+   -
+
+   Car modifiers and restorers
+   -
+
+   Drivers of small cars (Smart, Fiat 500, Chevy Spark, etc.)
+   -
+
+   Drivers of large cars (Chevrolet Tahoe, GMC Yukon, Toyota Sequoia, etc.)
+   -
+
+   People who transport passengers or valuable items (Movers, Soccer
+   Moms/Dads)
+
+
+If you or someone you know is willing to help us out, please respond!
+
+We are looking to schedule half hour to hour long interviews within the
+weeks of 7/14, 7/21, and 8/4.
+
+The Santos Research Team is committed to our user?s privacy. We will
+anonymize any information that can be seen outside of our team. The level
+of involvement is completely at the participant?s discretion. We are unable
+to provide compensation.
+
+Thank you for your time!
+
+Sincerely,
+
+The Santos Research Team
+santosresearch2014 at gmail.com
+-------------- next part --------------
+<div dir="ltr"><span id="docs-internal-guid-b7d8fca7-3b97-3139-cf49-c4fc2ec14707"><p dir="ltr" style="line-height:1.15;margin-top:0pt;margin-bottom:0pt"><span style="font-size:15px;font-family:Arial;color:rgb(0,0,0);vertical-align:baseline;white-space:pre-wrap;background-color:transparent">Greetings!</span></p>
+<br><p dir="ltr" style="line-height:1.15;margin-top:0pt;margin-bottom:0pt"><span style="font-size:15px;font-family:Arial;color:rgb(0,0,0);vertical-align:baseline;white-space:pre-wrap;background-color:transparent">The Santos Summer Research team again, and this time we?re looking for you and people you know to help us refine some ideas! </span></p>
+<br><p dir="ltr" style="line-height:1.15;margin-top:0pt;margin-bottom:0pt"><span style="font-size:15px;font-family:Arial;color:rgb(0,0,0);vertical-align:baseline;white-space:pre-wrap;background-color:transparent">Specifically we are looking for people who fit one or more of the following categories:</span></p>
+<br><ul style="margin-top:0pt;margin-bottom:0pt"><li dir="ltr" style="list-style-type:disc;font-size:15px;font-family:Arial;color:rgb(0,0,0);vertical-align:baseline;background-color:transparent"><p dir="ltr" style="line-height:1.15;margin-top:0pt;margin-bottom:0pt">
+<span style="vertical-align:baseline;white-space:pre-wrap;background-color:transparent">Taxi drivers (Uber, Lyft included!), Mailmen, and couriers</span></p></li><li dir="ltr" style="list-style-type:disc;font-size:15px;font-family:Arial;color:rgb(0,0,0);vertical-align:baseline;background-color:transparent">
+<p dir="ltr" style="line-height:1.15;margin-top:0pt;margin-bottom:0pt"><span style="vertical-align:baseline;white-space:pre-wrap;background-color:transparent">Long distance commuters (50+ miles a day)</span></p></li><li dir="ltr" style="list-style-type:disc;font-size:15px;font-family:Arial;color:rgb(0,0,0);vertical-align:baseline;background-color:transparent">
+<p dir="ltr" style="line-height:1.15;margin-top:0pt;margin-bottom:0pt"><span style="vertical-align:baseline;white-space:pre-wrap;background-color:transparent">Car modifiers and restorers</span></p></li><li dir="ltr" style="list-style-type:disc;font-size:15px;font-family:Arial;color:rgb(0,0,0);vertical-align:baseline;background-color:transparent">
+<p dir="ltr" style="line-height:1.15;margin-top:0pt;margin-bottom:0pt"><span style="vertical-align:baseline;white-space:pre-wrap;background-color:transparent">Drivers of small cars (Smart, Fiat 500, Chevy Spark, etc.)</span></p>
+</li><li dir="ltr" style="list-style-type:disc;font-size:15px;font-family:Arial;color:rgb(0,0,0);vertical-align:baseline;background-color:transparent"><p dir="ltr" style="line-height:1.15;margin-top:0pt;margin-bottom:0pt">
+<span style="vertical-align:baseline;white-space:pre-wrap;background-color:transparent">Drivers of large cars (Chevrolet Tahoe, GMC Yukon, Toyota Sequoia, etc.)</span></p></li><li dir="ltr" style="list-style-type:disc;font-size:15px;font-family:Arial;color:rgb(0,0,0);vertical-align:baseline;background-color:transparent">
+<p dir="ltr" style="line-height:1.15;margin-top:0pt;margin-bottom:0pt"><span style="vertical-align:baseline;white-space:pre-wrap;background-color:transparent">People who transport passengers or valuable items (Movers, Soccer Moms/Dads)</span></p>
+</li></ul><br><p dir="ltr" style="line-height:1.15;margin-top:0pt;margin-bottom:0pt"><span style="font-size:15px;font-family:Arial;color:rgb(0,0,0);vertical-align:baseline;white-space:pre-wrap;background-color:transparent">If you or someone you know is willing to help us out, please respond!</span></p>
+<p dir="ltr" style="line-height:1.15;margin-top:0pt;margin-bottom:0pt"><span style="font-size:15px;font-family:Arial;color:rgb(0,0,0);vertical-align:baseline;white-space:pre-wrap;background-color:transparent">We are looking to schedule half hour to hour long interviews within the weeks of 7/14, 7/21, and 8/4.</span></p>
+<br><p dir="ltr" style="line-height:1.15;margin-top:0pt;margin-bottom:0pt"><span style="font-size:15px;font-family:Arial;color:rgb(0,0,0);vertical-align:baseline;white-space:pre-wrap;background-color:transparent">The Santos Research Team is committed to our user?s privacy. We will anonymize any information that can be seen outside of our team. The level of involvement is completely at the participant?s discretion. We are unable to provide compensation.</span></p>
+<br><p dir="ltr" style="line-height:1.15;margin-top:0pt;margin-bottom:0pt"><span style="font-size:15px;font-family:Arial;color:rgb(0,0,0);vertical-align:baseline;white-space:pre-wrap;background-color:transparent">Thank you for your time! </span></p>
+<br><p dir="ltr" style="line-height:1.15;margin-top:0pt;margin-bottom:0pt"><span style="font-size:15px;font-family:Arial;color:rgb(0,0,0);vertical-align:baseline;white-space:pre-wrap;background-color:transparent">Sincerely, </span></p>
+<br><p dir="ltr" style="line-height:1.15;margin-top:0pt;margin-bottom:0pt;text-indent:36pt"><span style="font-size:15px;font-family:Arial;color:rgb(0,0,0);vertical-align:baseline;white-space:pre-wrap;background-color:transparent">The Santos Research Team</span></p>
+<a href="mailto:santosresearch2014 at gmail.com" style="text-decoration:none"><span style="font-size:15px;font-family:Arial;text-decoration:underline;vertical-align:baseline;white-space:pre-wrap;background-color:transparent">santosresearch2014 at gmail.com</span></a></span><br>
+</div>
+
+From Shane.Skikne at students.olin.edu  Thu Jul 17 15:09:49 2014
+From: Shane.Skikne at students.olin.edu (Shane Skikne)
+Date: Thu, 17 Jul 2014 15:09:49 -0400
+Subject: [Carpediem] Quick Internship Survey
+Message-ID: <0CBFB473-D7A0-4A2F-89CD-CB94576550F0@students.olin.edu>
+
+Tldr please take this survey:
+https://docs.google.com/forms/d/1tnZEdVHJ6J65yRiEDr-eq7Wi111HePT9eo2bt_EmhmA/viewform
+
+
+Hello!
+I love data and I love hearing about other people's internships so I made a 30 second survey. I'd really appreciate it if you'd fill it out. While this is my survey, other people will be given access to the raw data. This is for myself and not for Facebook or Olin. If you'd like access to the raw data, send me your email. https://docs.google.com/forms/d/1tnZEdVHJ6J65yRiEDr-eq7Wi111HePT9eo2bt_EmhmA/viewform
+Shane
+-------------- next part --------------
+<html><head><meta http-equiv="content-type" content="text/html; charset=utf-8"></head><body dir="auto"><div>Tldr please take this survey:&nbsp;</div><div><a href="https://docs.google.com/forms/d/1tnZEdVHJ6J65yRiEDr-eq7Wi111HePT9eo2bt_EmhmA/viewform">https://docs.google.com/forms/d/1tnZEdVHJ6J65yRiEDr-eq7Wi111HePT9eo2bt_EmhmA/viewform</a></div><div><br></div><div><br></div><div>Hello!&nbsp;</div><div>I love data and I love hearing about other people's internships so I made a 30 second survey. I'd really appreciate it if you'd fill it out. While this is my survey, other people will be given access to the raw data. This is for myself and not for Facebook or Olin. If you'd like access to the raw data, send me your email.&nbsp;<a href="https://docs.google.com/forms/d/1tnZEdVHJ6J65yRiEDr-eq7Wi111HePT9eo2bt_EmhmA/viewform">https://docs.google.com/forms/d/1tnZEdVHJ6J65yRiEDr-eq7Wi111HePT9eo2bt_EmhmA/viewform</a></div><div>Shane</div></body></html>
+
+From Shane.Skikne at students.olin.edu  Thu Jul 17 15:15:44 2014
+From: Shane.Skikne at students.olin.edu (Shane Skikne)
+Date: Thu, 17 Jul 2014 15:15:44 -0400
+Subject: [Carpediem] Quick Internship Survey
+In-Reply-To: <0CBFB473-D7A0-4A2F-89CD-CB94576550F0@students.olin.edu>
+References: <0CBFB473-D7A0-4A2F-89CD-CB94576550F0@students.olin.edu>
+Message-ID: <DA80C3E6C10BE94E8FCACEB239C2FEE40152883C0ED5@EXVS01.olin.edu>
+
+10 bonus points if you pass it on to other interns at your company or in your area!
+Shane
+________________________________________
+From: Carpediem [carpediem-bounces at lists.olin.edu] On Behalf Of Shane Skikne
+Sent: Thursday, July 17, 2014 3:09 PM
+To: carpediem at lists.olin.edu
+Subject: [Carpediem] Quick Internship Survey
+
+Tldr please take this survey:
+https://docs.google.com/forms/d/1tnZEdVHJ6J65yRiEDr-eq7Wi111HePT9eo2bt_EmhmA/viewform
+
+
+Hello!
+I love data and I love hearing about other people's internships so I made a 30 second survey. I'd really appreciate it if you'd fill it out. While this is my survey, other people will be given access to the raw data. This is for myself and not for Facebook or Olin. If you'd like access to the raw data, send me your email. https://docs.google.com/forms/d/1tnZEdVHJ6J65yRiEDr-eq7Wi111HePT9eo2bt_EmhmA/viewform
+Shane
+
+From Rahil.Dedhia at students.olin.edu  Thu Jul 17 22:47:43 2014
+From: Rahil.Dedhia at students.olin.edu (Rahil Dedhia)
+Date: Thu, 17 Jul 2014 22:47:43 -0400
+Subject: [Carpediem] I just thought everyone should see this
+Message-ID: <29E3BD3F-AAC9-4C2A-B164-D350CBA68773@students.olin.edu>
+
+https://m.facebook.com/story.php?story_fbid=859670834044611&id=218304001514634
+
+I hope you're all having a nice summer!
+-------------- next part --------------
+<html><head><meta http-equiv="content-type" content="text/html; charset=utf-8"></head><body dir="auto"><a href="https://m.facebook.com/story.php?story_fbid=859670834044611&amp;id=218304001514634">https://m.facebook.com/story.php?story_fbid=859670834044611&amp;id=218304001514634</a><br><br>I hope you're all having a nice summer!</body></html>
+
+From Emily.Guthrie at students.olin.edu  Thu Jul 17 22:53:47 2014
+From: Emily.Guthrie at students.olin.edu (Emily Guthrie)
+Date: Thu, 17 Jul 2014 22:53:47 -0400
+Subject: [Carpediem] thought you all should see this
+Message-ID: <49172D24-EFE1-4DB3-B83F-CAE6408EA9AC@students.olin.edu>
+
+As a YouTube video:
+
+http://youtu.be/Oy9-Z7PrEwE
+
+
+Sent from my iPhone
+
+From Alexander.Crease at students.olin.edu  Fri Jul 18 16:12:26 2014
+From: Alexander.Crease at students.olin.edu (Alexander Crease)
+Date: Fri, 18 Jul 2014 16:12:26 -0400
+Subject: [Carpediem] Donate to UNICEF/be in Star Wars VII
+Message-ID: <DA80C3E6C10BE94E8FCACEB239C2FEE4015288011F70@EXVS01.olin.edu>
+
+Hey everyone!
+
+TLDR: Donate to UNICEF, get cool star wars things back, and be entered for a chance to be in Star Wars VII.
+
+So JJ Abrams and the people creating Star Wars Episode VII have a fundraiser going on in collaboration with UNICEF, and if you donate money, you'll get a gift corresponding to your donation level AND you will be entered for a chance to visit London, by JJ Abrams' VIP guest on the Star Wars Episode VII set, and BE IN STAR WARS AS AN ALIEN EXTRA. If you've already been in a Star Wars movie, don't mind this email. But if you love Star Wars and donating to charitable causes, click the link below! There is a week left to enter!
+
+http://go.omaze.com/c1bp
+
+-Alex
+
+-------------- next part --------------
+<html xmlns:v="urn:schemas-microsoft-com:vml" xmlns:o="urn:schemas-microsoft-com:office:office" xmlns:w="urn:schemas-microsoft-com:office:word" xmlns:m="http://schemas.microsoft.com/office/2004/12/omml" xmlns="http://www.w3.org/TR/REC-html40"><head><META HTTP-EQUIV="Content-Type" CONTENT="text/html; charset=us-ascii"><meta name=Generator content="Microsoft Word 14 (filtered medium)"><style><!--
+/* Font Definitions */
+@font-face
+	{font-family:"Cambria Math";
+	panose-1:2 4 5 3 5 4 6 3 2 4;}
+@font-face
+	{font-family:Calibri;
+	panose-1:2 15 5 2 2 2 4 3 2 4;}
+/* Style Definitions */
+p.MsoNormal, li.MsoNormal, div.MsoNormal
+	{margin:0in;
+	margin-bottom:.0001pt;
+	font-size:11.0pt;
+	font-family:"Calibri","sans-serif";}
+a:link, span.MsoHyperlink
+	{mso-style-priority:99;
+	color:blue;
+	text-decoration:underline;}
+a:visited, span.MsoHyperlinkFollowed
+	{mso-style-priority:99;
+	color:purple;
+	text-decoration:underline;}
+span.EmailStyle17
+	{mso-style-type:personal-compose;
+	font-family:"Calibri","sans-serif";
+	color:windowtext;}
+.MsoChpDefault
+	{mso-style-type:export-only;
+	font-family:"Calibri","sans-serif";}
+@page WordSection1
+	{size:8.5in 11.0in;
+	margin:1.0in 1.0in 1.0in 1.0in;}
+div.WordSection1
+	{page:WordSection1;}
+--></style><!--[if gte mso 9]><xml>
+<o:shapedefaults v:ext="edit" spidmax="1026" />
+</xml><![endif]--><!--[if gte mso 9]><xml>
+<o:shapelayout v:ext="edit">
+<o:idmap v:ext="edit" data="1" />
+</o:shapelayout></xml><![endif]--></head><body lang=EN-US link=blue vlink=purple><div class=WordSection1><p class=MsoNormal>Hey everyone!<o:p></o:p></p><p class=MsoNormal><o:p>&nbsp;</o:p></p><p class=MsoNormal><b>TLDR:</b> Donate to UNICEF, get cool star wars things back, and be entered for a chance to be in Star Wars VII.<o:p></o:p></p><p class=MsoNormal><o:p>&nbsp;</o:p></p><p class=MsoNormal>So JJ Abrams and the people creating Star Wars Episode VII have a fundraiser going on in collaboration with UNICEF, and if you donate money, you&#8217;ll get a gift corresponding to your donation level AND you will be entered for a chance to visit London, by JJ Abrams&#8217; VIP guest on the Star Wars Episode VII set, and BE IN STAR WARS AS AN ALIEN EXTRA. If you&#8217;ve already been in a Star Wars movie, don&#8217;t mind this email. But if you love Star Wars and donating to charitable causes, click the link below! There is a week left to enter!<o:p></o:p></p><p class=MsoNormal><o:p>&nbsp;</o:p></p><p class=MsoNormal><span style='font-family:"Arial","sans-serif";color:#333333;background:white'><a href="http://go.omaze.com/c1bp">http://go.omaze.com/c1bp</a></span><span style='font-family:"Arial","sans-serif";background:white'><o:p></o:p></span></p><p class=MsoNormal><span style='font-family:"Arial","sans-serif";background:white'><o:p>&nbsp;</o:p></span></p><p class=MsoNormal><span style='font-family:"Arial","sans-serif";background:white'>-Alex<span style='color:#333333'><o:p></o:p></span></span></p><p class=MsoNormal><o:p>&nbsp;</o:p></p></div></body></html>
+
+From Alexander.Crease at students.olin.edu  Fri Jul 18 16:22:12 2014
+From: Alexander.Crease at students.olin.edu (Alexander Crease)
+Date: Fri, 18 Jul 2014 16:22:12 -0400
+Subject: [Carpediem] Engineering Against Humanity Card Game
+Message-ID: <DA80C3E6C10BE94E8FCACEB239C2FEE4015288011F72@EXVS01.olin.edu>
+
+Hey guys!
+
+So last year I started to make an Olin-themed Cards against Humanity game, named Engineering Against Humanity. It never got finished because we need a LOT more white cards. We need to get at least 460. If you have a few minutes, please enter silly Olinesque things into this spreadsheet<https://docs.google.com/a/helmet-hub.com/spreadsheet/ccc?key=0Aje21yPLPfn-dHlWZWNQZzNGcWZ3aURVUzBzVlREelE&usp=drive_web#gid=0>. I don't want any of the cards to target any specific people or incidents as it may make some people uncomfortable, so please keep that in mind when filling stuff in! Thanks!!!
+
+-Alex
+-------------- next part --------------
+<html xmlns:v="urn:schemas-microsoft-com:vml" xmlns:o="urn:schemas-microsoft-com:office:office" xmlns:w="urn:schemas-microsoft-com:office:word" xmlns:m="http://schemas.microsoft.com/office/2004/12/omml" xmlns="http://www.w3.org/TR/REC-html40"><head><meta http-equiv=Content-Type content="text/html; charset=us-ascii"><meta name=Generator content="Microsoft Word 14 (filtered medium)"><style><!--
+/* Font Definitions */
+@font-face
+	{font-family:"Cambria Math";
+	panose-1:2 4 5 3 5 4 6 3 2 4;}
+@font-face
+	{font-family:Calibri;
+	panose-1:2 15 5 2 2 2 4 3 2 4;}
+/* Style Definitions */
+p.MsoNormal, li.MsoNormal, div.MsoNormal
+	{margin:0in;
+	margin-bottom:.0001pt;
+	font-size:11.0pt;
+	font-family:"Calibri","sans-serif";}
+a:link, span.MsoHyperlink
+	{mso-style-priority:99;
+	color:blue;
+	text-decoration:underline;}
+a:visited, span.MsoHyperlinkFollowed
+	{mso-style-priority:99;
+	color:purple;
+	text-decoration:underline;}
+span.EmailStyle17
+	{mso-style-type:personal-compose;
+	font-family:"Calibri","sans-serif";
+	color:windowtext;}
+.MsoChpDefault
+	{mso-style-type:export-only;
+	font-family:"Calibri","sans-serif";}
+@page WordSection1
+	{size:8.5in 11.0in;
+	margin:1.0in 1.0in 1.0in 1.0in;}
+div.WordSection1
+	{page:WordSection1;}
+--></style><!--[if gte mso 9]><xml>
+<o:shapedefaults v:ext="edit" spidmax="1026" />
+</xml><![endif]--><!--[if gte mso 9]><xml>
+<o:shapelayout v:ext="edit">
+<o:idmap v:ext="edit" data="1" />
+</o:shapelayout></xml><![endif]--></head><body lang=EN-US link=blue vlink=purple><div class=WordSection1><p class=MsoNormal>Hey guys!<o:p></o:p></p><p class=MsoNormal><o:p>&nbsp;</o:p></p><p class=MsoNormal>So last year I started to make an Olin-themed Cards against Humanity game, named Engineering Against Humanity. It never got finished because we need a LOT more white cards. We need to get at least 460. If you have a few minutes, please enter silly Olinesque things into this <a href="https://docs.google.com/a/helmet-hub.com/spreadsheet/ccc?key=0Aje21yPLPfn-dHlWZWNQZzNGcWZ3aURVUzBzVlREelE&amp;usp=drive_web#gid=0">spreadsheet</a>. I don&#8217;t want any of the cards to target any specific people or incidents as it may make some people uncomfortable, so please keep that in mind when filling stuff in! Thanks!!!<o:p></o:p></p><p class=MsoNormal><o:p>&nbsp;</o:p></p><p class=MsoNormal>-Alex<o:p></o:p></p></div></body></html>
+
+From Christopher.Joyce at students.olin.edu  Sun Jul 20 03:21:49 2014
+From: Christopher.Joyce at students.olin.edu (Christopher Joyce)
+Date: Sun, 20 Jul 2014 03:21:49 -0400
+Subject: [Carpediem] GUESS WHAT TIME IT IS?  CAMPING TIME!!!!
+Message-ID: <DA80C3E6C10BE94E8FCACEB239C2FEE4015288011FC7@EXVS01.olin.edu>
+
+Another year, another exclamation mark.
+
+The Outing Club camping trip is taking place again this year, first weekend we're back (9/5/14-9/7/14).  You all know the drill, hopefully, but if not, feel free to email me with any questions you have.
+
+Info here<https://sites.google.com/site/olinoutingclub/home>
+Signups here<https://sites.google.com/site/olinoutingclub/fall-trip-signup>
+Stalk your friends here<https://docs.google.com/spreadsheets/d/1AKLVw07U1f4_N4a9Bf-00Czhmd51dKykz9AgK7SwjIc>
+
+-Chris
+-------------- next part --------------
+<html xmlns:v="urn:schemas-microsoft-com:vml" xmlns:o="urn:schemas-microsoft-com:office:office" xmlns:w="urn:schemas-microsoft-com:office:word" xmlns:m="http://schemas.microsoft.com/office/2004/12/omml" xmlns="http://www.w3.org/TR/REC-html40"><head><meta http-equiv=Content-Type content="text/html; charset=us-ascii"><meta name=Generator content="Microsoft Word 14 (filtered medium)"><style><!--
+/* Font Definitions */
+@font-face
+	{font-family:"Cambria Math";
+	panose-1:2 4 5 3 5 4 6 3 2 4;}
+@font-face
+	{font-family:Calibri;
+	panose-1:2 15 5 2 2 2 4 3 2 4;}
+/* Style Definitions */
+p.MsoNormal, li.MsoNormal, div.MsoNormal
+	{margin:0in;
+	margin-bottom:.0001pt;
+	font-size:11.0pt;
+	font-family:"Calibri","sans-serif";}
+a:link, span.MsoHyperlink
+	{mso-style-priority:99;
+	color:blue;
+	text-decoration:underline;}
+a:visited, span.MsoHyperlinkFollowed
+	{mso-style-priority:99;
+	color:purple;
+	text-decoration:underline;}
+span.EmailStyle17
+	{mso-style-type:personal-compose;
+	font-family:"Calibri","sans-serif";
+	color:windowtext;}
+.MsoChpDefault
+	{mso-style-type:export-only;
+	font-size:10.0pt;
+	font-family:"Calibri","sans-serif";}
+@page WordSection1
+	{size:8.5in 11.0in;
+	margin:1.0in 1.0in 1.0in 1.0in;}
+div.WordSection1
+	{page:WordSection1;}
+--></style><!--[if gte mso 9]><xml>
+<o:shapedefaults v:ext="edit" spidmax="1026" />
+</xml><![endif]--><!--[if gte mso 9]><xml>
+<o:shapelayout v:ext="edit">
+<o:idmap v:ext="edit" data="1" />
+</o:shapelayout></xml><![endif]--></head><body lang=EN-US link=blue vlink=purple><div class=WordSection1><p class=MsoNormal>Another year, another exclamation mark.<o:p></o:p></p><p class=MsoNormal><o:p>&nbsp;</o:p></p><p class=MsoNormal>The Outing Club camping trip is taking place again this year, first weekend we&#8217;re back (9/5/14-9/7/14).&nbsp; You all know the drill, hopefully, but if not, feel free to email me with any questions you have.<o:p></o:p></p><p class=MsoNormal><o:p>&nbsp;</o:p></p><p class=MsoNormal>Info <a href="https://sites.google.com/site/olinoutingclub/home">here</a> <o:p></o:p></p><p class=MsoNormal>Signups <a href="https://sites.google.com/site/olinoutingclub/fall-trip-signup">here</a> <o:p></o:p></p><p class=MsoNormal>Stalk your friends <a href="https://docs.google.com/spreadsheets/d/1AKLVw07U1f4_N4a9Bf-00Czhmd51dKykz9AgK7SwjIc">here</a> <o:p></o:p></p><p class=MsoNormal><o:p>&nbsp;</o:p></p><p class=MsoNormal>-Chris<o:p></o:p></p></div></body></html>
+
+From ariana.chae at students.olin.edu  Sun Jul 20 10:19:42 2014
+From: ariana.chae at students.olin.edu (Ariana Chae)
+Date: Sun, 20 Jul 2014 09:19:42 -0500
+Subject: [Carpediem] GUESS WHAT TIME IT IS? CAMPING TIME!!!!
+In-Reply-To: <DA80C3E6C10BE94E8FCACEB239C2FEE4015288011FC7@EXVS01.olin.edu>
+References: <DA80C3E6C10BE94E8FCACEB239C2FEE4015288011FC7@EXVS01.olin.edu>
+Message-ID: <CAHT-TTDBZDTj8jSEmUBoBpoELMxftXuYessf7tXP64bwoaszoA@mail.gmail.com>
+
+Note to the seniors, we have a mandatory SCOPE meeting until 4:30 that
+Friday.
+
+Sent via phablet.
+On Jul 20, 2014 2:21 AM, "Christopher Joyce" <
+Christopher.Joyce at students.olin.edu> wrote:
+
+> Another year, another exclamation mark.
+>
+>
+>
+> The Outing Club camping trip is taking place again this year, first
+> weekend we?re back (9/5/14-9/7/14).  You all know the drill, hopefully, but
+> if not, feel free to email me with any questions you have.
+>
+>
+>
+> Info here <https://sites.google.com/site/olinoutingclub/home>
+>
+> Signups here
+> <https://sites.google.com/site/olinoutingclub/fall-trip-signup>
+>
+> Stalk your friends here
+> <https://docs.google.com/spreadsheets/d/1AKLVw07U1f4_N4a9Bf-00Czhmd51dKykz9AgK7SwjIc>
+>
+>
+>
+> -Chris
+>
+> _______________________________________________
+> Carpediem mailing list
+> Carpediem at lists.olin.edu
+> https://lists.olin.edu/mailman/listinfo/carpediem
+>
+>
+-------------- next part --------------
+<p dir="ltr">Note to the seniors, we have a mandatory SCOPE meeting until 4:30 that Friday. </p>
+<p dir="ltr">Sent via phablet. </p>
+<div class="gmail_quote">On Jul 20, 2014 2:21 AM, &quot;Christopher Joyce&quot; &lt;<a href="mailto:Christopher.Joyce at students.olin.edu">Christopher.Joyce at students.olin.edu</a>&gt; wrote:<br type="attribution"><blockquote class="gmail_quote" style="margin:0 0 0 .8ex;border-left:1px #ccc solid;padding-left:1ex">
+<div lang="EN-US" link="blue" vlink="purple"><div><p class="MsoNormal">Another year, another exclamation mark.<u></u><u></u></p><p class="MsoNormal"><u></u>?<u></u></p><p class="MsoNormal">The Outing Club camping trip is taking place again this year, first weekend we?re back (9/5/14-9/7/14).? You all know the drill, hopefully, but if not, feel free to email me with any questions you have.<u></u><u></u></p>
+<p class="MsoNormal"><u></u>?<u></u></p><p class="MsoNormal">Info <a href="https://sites.google.com/site/olinoutingclub/home" target="_blank">here</a> <u></u><u></u></p><p class="MsoNormal">Signups <a href="https://sites.google.com/site/olinoutingclub/fall-trip-signup" target="_blank">here</a> <u></u><u></u></p>
+<p class="MsoNormal">Stalk your friends <a href="https://docs.google.com/spreadsheets/d/1AKLVw07U1f4_N4a9Bf-00Czhmd51dKykz9AgK7SwjIc" target="_blank">here</a> <u></u><u></u></p><p class="MsoNormal"><u></u>?<u></u></p><p class="MsoNormal">
+-Chris<u></u><u></u></p></div></div><br>_______________________________________________<br>
+Carpediem mailing list<br>
+<a href="mailto:Carpediem at lists.olin.edu">Carpediem at lists.olin.edu</a><br>
+<a href="https://lists.olin.edu/mailman/listinfo/carpediem" target="_blank">https://lists.olin.edu/mailman/listinfo/carpediem</a><br>
+<br></blockquote></div>
+
+From Collaboratory at olin.edu  Mon Jul 21 20:27:25 2014
+From: Collaboratory at olin.edu (Collaboratory)
+Date: Mon, 21 Jul 2014 20:27:25 -0400
+Subject: [Carpediem] FW: Olin Website Contact Form Submission
+In-Reply-To: <E1X9Lr7-0000u2-F6@srv-2737.devbutt.hosting.acquia.com>
+References: <E1X9Lr7-0000u2-F6@srv-2737.devbutt.hosting.acquia.com>
+Message-ID: <74EC63270F70E84EBE31C4588324B47601039C8AC90D@EXVS01.olin.edu>
+
+Anyone interested?
+
+From: Henry Asch [mailto:henry.asch at gmail.com]
+Sent: Monday, July 21, 2014 6:15 PM
+To: Collaboratory
+Subject: Olin Website Contact Form Submission
+
+
+Submitted on Monday, July 21, 2014 - 18:14
+
+
+
+Submitted values are:
+Name Henry Asch
+Email Address henry.asch at gmail.com<mailto:henry.asch at gmail.com>
+Department Collaboratory
+Message
+Hello,
+
+I'm a student at the Babson Summer Study program. I was hoping I could meet with a student (or professor) at Olin who could help me to design a product I'm working on. It's nothing too technological, just a container for a new type of beverage, but the eye of an engineer might be able to see things I can't.
+
+I'd appreciate the help. I'll be at Babson for another 3 weeks.
+
+Henry Asch
+-------------- next part --------------
+<html xmlns:v="urn:schemas-microsoft-com:vml" xmlns:o="urn:schemas-microsoft-com:office:office" xmlns:w="urn:schemas-microsoft-com:office:word" xmlns:m="http://schemas.microsoft.com/office/2004/12/omml" xmlns="http://www.w3.org/TR/REC-html40"><head><meta http-equiv=Content-Type content="text/html; charset=utf-8"><meta name=Generator content="Microsoft Word 14 (filtered medium)"><style><!--
+/* Font Definitions */
+@font-face
+	{font-family:Calibri;
+	panose-1:2 15 5 2 2 2 4 3 2 4;}
+@font-face
+	{font-family:Tahoma;
+	panose-1:2 11 6 4 3 5 4 4 2 4;}
+@font-face
+	{font-family:Consolas;
+	panose-1:2 11 6 9 2 2 4 3 2 4;}
+/* Style Definitions */
+p.MsoNormal, li.MsoNormal, div.MsoNormal
+	{margin:0in;
+	margin-bottom:.0001pt;
+	font-size:12.0pt;
+	font-family:"Times New Roman","serif";}
+h1
+	{mso-style-priority:9;
+	mso-style-link:"Heading 1 Char";
+	margin-top:8.05pt;
+	margin-right:0in;
+	margin-bottom:7.5pt;
+	margin-left:0in;
+	font-size:24.0pt;
+	font-family:"Times New Roman","serif";
+	font-weight:bold;}
+h2
+	{mso-style-priority:9;
+	mso-style-link:"Heading 2 Char";
+	mso-margin-top-alt:auto;
+	margin-right:0in;
+	margin-bottom:7.5pt;
+	margin-left:0in;
+	font-size:18.0pt;
+	font-family:"Times New Roman","serif";
+	font-weight:bold;}
+h3
+	{mso-style-priority:9;
+	mso-style-link:"Heading 3 Char";
+	mso-margin-top-alt:auto;
+	margin-right:0in;
+	margin-bottom:7.5pt;
+	margin-left:0in;
+	font-size:13.5pt;
+	font-family:"Times New Roman","serif";
+	font-weight:bold;}
+h4
+	{mso-style-priority:9;
+	mso-style-link:"Heading 4 Char";
+	mso-margin-top-alt:auto;
+	margin-right:0in;
+	margin-bottom:7.5pt;
+	margin-left:0in;
+	font-size:12.0pt;
+	font-family:"Times New Roman","serif";
+	font-weight:bold;}
+h5
+	{mso-style-priority:9;
+	mso-style-link:"Heading 5 Char";
+	mso-margin-top-alt:auto;
+	margin-right:0in;
+	margin-bottom:7.5pt;
+	margin-left:0in;
+	font-size:10.0pt;
+	font-family:"Times New Roman","serif";
+	font-weight:bold;}
+a:link, span.MsoHyperlink
+	{mso-style-priority:99;
+	color:#0087C6;
+	text-decoration:none none;}
+a:visited, span.MsoHyperlinkFollowed
+	{mso-style-priority:99;
+	color:#0087C6;
+	text-decoration:none none;}
+p
+	{mso-style-priority:99;
+	margin-top:0in;
+	margin-right:0in;
+	margin-bottom:11.25pt;
+	margin-left:0in;
+	font-size:12.0pt;
+	font-family:"Times New Roman","serif";}
+code
+	{mso-style-priority:99;
+	font-family:"Courier New";}
+kbd
+	{mso-style-priority:99;
+	font-family:"Courier New";}
+pre
+	{mso-style-priority:99;
+	mso-style-link:"HTML Preformatted Char";
+	margin:0in;
+	margin-bottom:.0001pt;
+	font-size:12.0pt;
+	font-family:"Courier New";}
+samp
+	{mso-style-priority:99;
+	font-family:"Courier New";}
+span.Heading1Char
+	{mso-style-name:"Heading 1 Char";
+	mso-style-priority:9;
+	mso-style-link:"Heading 1";
+	font-family:"Cambria","serif";
+	color:#365F91;
+	font-weight:bold;}
+span.Heading2Char
+	{mso-style-name:"Heading 2 Char";
+	mso-style-priority:9;
+	mso-style-link:"Heading 2";
+	font-family:"Cambria","serif";
+	color:#4F81BD;
+	font-weight:bold;}
+span.Heading3Char
+	{mso-style-name:"Heading 3 Char";
+	mso-style-priority:9;
+	mso-style-link:"Heading 3";
+	font-family:"Cambria","serif";
+	color:#4F81BD;
+	font-weight:bold;}
+span.Heading4Char
+	{mso-style-name:"Heading 4 Char";
+	mso-style-priority:9;
+	mso-style-link:"Heading 4";
+	font-family:"Cambria","serif";
+	color:#4F81BD;
+	font-weight:bold;
+	font-style:italic;}
+span.Heading5Char
+	{mso-style-name:"Heading 5 Char";
+	mso-style-priority:9;
+	mso-style-link:"Heading 5";
+	font-family:"Cambria","serif";
+	color:#243F60;}
+span.HTMLPreformattedChar
+	{mso-style-name:"HTML Preformatted Char";
+	mso-style-priority:99;
+	mso-style-link:"HTML Preformatted";
+	font-family:"Consolas","serif";}
+p.img-responsive, li.img-responsive, div.img-responsive
+	{mso-style-name:img-responsive;
+	margin-top:0in;
+	margin-right:0in;
+	margin-bottom:11.25pt;
+	margin-left:0in;
+	font-size:12.0pt;
+	font-family:"Times New Roman","serif";}
+p.brand-color, li.brand-color, div.brand-color
+	{mso-style-name:brand-color;
+	margin-top:0in;
+	margin-right:0in;
+	margin-bottom:11.25pt;
+	margin-left:0in;
+	font-size:12.0pt;
+	font-family:"Times New Roman","serif";
+	color:#0087C6;}
+p.secondary-color, li.secondary-color, div.secondary-color
+	{mso-style-name:secondary-color;
+	margin-top:0in;
+	margin-right:0in;
+	margin-bottom:11.25pt;
+	margin-left:0in;
+	font-size:12.0pt;
+	font-family:"Times New Roman","serif";
+	color:#C9EA44;}
+p.block-level, li.block-level, div.block-level
+	{mso-style-name:block-level;
+	margin-top:0in;
+	margin-right:0in;
+	margin-bottom:11.25pt;
+	margin-left:0in;
+	font-size:12.0pt;
+	font-family:"Times New Roman","serif";}
+p.m-b-10, li.m-b-10, div.m-b-10
+	{mso-style-name:m-b-10;
+	margin-top:0in;
+	margin-right:0in;
+	margin-bottom:7.5pt;
+	margin-left:0in;
+	font-size:12.0pt;
+	font-family:"Times New Roman","serif";}
+p.m-b-15, li.m-b-15, div.m-b-15
+	{mso-style-name:m-b-15;
+	margin-top:0in;
+	margin-right:0in;
+	margin-bottom:11.25pt;
+	margin-left:0in;
+	font-size:12.0pt;
+	font-family:"Times New Roman","serif";}
+p.m-b-20, li.m-b-20, div.m-b-20
+	{mso-style-name:m-b-20;
+	margin-top:0in;
+	margin-right:0in;
+	margin-bottom:15.0pt;
+	margin-left:0in;
+	font-size:12.0pt;
+	font-family:"Times New Roman","serif";}
+p.table, li.table, div.table
+	{mso-style-name:table;
+	margin-top:0in;
+	margin-right:0in;
+	margin-bottom:15.0pt;
+	margin-left:0in;
+	font-size:12.0pt;
+	font-family:"Times New Roman","serif";}
+p.table-bordered, li.table-bordered, div.table-bordered
+	{mso-style-name:table-bordered;
+	margin-top:0in;
+	margin-right:0in;
+	margin-bottom:11.25pt;
+	margin-left:0in;
+	border:none;
+	padding:0in;
+	font-size:12.0pt;
+	font-family:"Times New Roman","serif";}
+p.form-submit, li.form-submit, div.form-submit
+	{mso-style-name:form-submit;
+	margin-top:0in;
+	margin-right:0in;
+	margin-bottom:11.25pt;
+	margin-left:0in;
+	font-size:12.0pt;
+	font-family:"Times New Roman","serif";}
+p.field-prefix, li.field-prefix, div.field-prefix
+	{mso-style-name:field-prefix;
+	margin-top:0in;
+	margin-right:7.5pt;
+	margin-bottom:11.25pt;
+	margin-left:0in;
+	font-size:12.0pt;
+	font-family:"Times New Roman","serif";}
+p.row, li.row, div.row
+	{mso-style-name:row;
+	margin-top:0in;
+	margin-right:-11.25pt;
+	margin-bottom:11.25pt;
+	margin-left:-11.25pt;
+	font-size:12.0pt;
+	font-family:"Times New Roman","serif";}
+p.form-item, li.form-item, div.form-item
+	{mso-style-name:form-item;
+	margin-top:0in;
+	margin-right:0in;
+	margin-bottom:11.25pt;
+	margin-left:0in;
+	font-size:12.0pt;
+	font-family:"Times New Roman","serif";}
+p.btn-search, li.btn-search, div.btn-search
+	{mso-style-name:btn-search;
+	margin-top:0in;
+	margin-right:0in;
+	margin-bottom:11.25pt;
+	margin-left:0in;
+	font-size:12.0pt;
+	font-family:"Times New Roman","serif";}
+p.search-advanced, li.search-advanced, div.search-advanced
+	{mso-style-name:search-advanced;
+	margin-top:0in;
+	margin-right:0in;
+	margin-bottom:11.25pt;
+	margin-left:0in;
+	font-size:12.0pt;
+	font-family:"Times New Roman","serif";}
+p.hide, li.hide, div.hide
+	{mso-style-name:hide;
+	margin-top:0in;
+	margin-right:0in;
+	margin-bottom:11.25pt;
+	margin-left:0in;
+	font-size:12.0pt;
+	font-family:"Times New Roman","serif";
+	display:none;}
+p.show, li.show, div.show
+	{mso-style-name:show;
+	margin-top:0in;
+	margin-right:0in;
+	margin-bottom:11.25pt;
+	margin-left:0in;
+	font-size:12.0pt;
+	font-family:"Times New Roman","serif";}
+p.caps, li.caps, div.caps
+	{mso-style-name:caps;
+	margin-top:0in;
+	margin-right:0in;
+	margin-bottom:11.25pt;
+	margin-left:0in;
+	font-size:12.0pt;
+	font-family:"Times New Roman","serif";
+	text-transform:uppercase;}
+p.table1, li.table1, div.table1
+	{mso-style-name:table1;
+	margin-top:0in;
+	margin-right:0in;
+	margin-bottom:15.0pt;
+	margin-left:0in;
+	background:#FAF7F4;
+	font-size:12.0pt;
+	font-family:"Times New Roman","serif";}
+p.table2, li.table2, div.table2
+	{mso-style-name:table2;
+	margin-top:0in;
+	margin-right:0in;
+	margin-bottom:15.0pt;
+	margin-left:0in;
+	background:#FAF7F4;
+	font-size:12.0pt;
+	font-family:"Times New Roman","serif";}
+p.btn-search1, li.btn-search1, div.btn-search1
+	{mso-style-name:btn-search1;
+	margin-top:0in;
+	margin-right:0in;
+	margin-bottom:11.25pt;
+	margin-left:0in;
+	font-size:12.0pt;
+	font-family:"Times New Roman","serif";}
+p.form-item1, li.form-item1, div.form-item1
+	{mso-style-name:form-item1;
+	margin-top:0in;
+	margin-right:0in;
+	margin-bottom:11.25pt;
+	margin-left:0in;
+	font-size:12.0pt;
+	font-family:"Times New Roman","serif";}
+p.form-item2, li.form-item2, div.form-item2
+	{mso-style-name:form-item2;
+	margin-top:0in;
+	margin-right:0in;
+	margin-bottom:11.25pt;
+	margin-left:0in;
+	font-size:12.0pt;
+	font-family:"Times New Roman","serif";}
+p.form-submit1, li.form-submit1, div.form-submit1
+	{mso-style-name:form-submit1;
+	margin-top:0in;
+	margin-right:0in;
+	margin-bottom:11.25pt;
+	margin-left:0in;
+	font-size:16.0pt;
+	font-family:"Times New Roman","serif";}
+p.search-advanced1, li.search-advanced1, div.search-advanced1
+	{mso-style-name:search-advanced1;
+	margin-top:0in;
+	margin-right:0in;
+	margin-bottom:11.25pt;
+	margin-left:0in;
+	font-size:12.0pt;
+	font-family:"Times New Roman","serif";
+	display:none;}
+span.field-prefix1
+	{mso-style-name:field-prefix1;}
+span.field-suffix
+	{mso-style-name:field-suffix;}
+span.EmailStyle58
+	{mso-style-type:personal-reply;
+	font-family:"Calibri","sans-serif";
+	color:#7030A0;}
+.MsoChpDefault
+	{mso-style-type:export-only;
+	font-size:10.0pt;}
+@page WordSection1
+	{size:8.5in 11.0in;
+	margin:1.0in 1.0in 1.0in 1.0in;}
+div.WordSection1
+	{page:WordSection1;}
+--></style><!--[if gte mso 9]><xml>
+<o:shapedefaults v:ext="edit" spidmax="1026" />
+</xml><![endif]--><!--[if gte mso 9]><xml>
+<o:shapelayout v:ext="edit">
+<o:idmap v:ext="edit" data="1" />
+</o:shapelayout></xml><![endif]--></head><body bgcolor="#FAF7F4" lang=EN-US link="#0087C6" vlink="#0087C6"><div class=WordSection1><p class=MsoNormal><span style='font-size:11.0pt;font-family:"Calibri","sans-serif";color:#7030A0'>Anyone interested?<o:p></o:p></span></p><p class=MsoNormal><span style='font-size:11.0pt;font-family:"Calibri","sans-serif";color:#7030A0'><o:p>&nbsp;</o:p></span></p><div><div style='border:none;border-top:solid #B5C4DF 1.0pt;padding:3.0pt 0in 0in 0in'><p class=MsoNormal style='margin-left:.5in'><b><span style='font-size:10.0pt;font-family:"Tahoma","sans-serif"'>From:</span></b><span style='font-size:10.0pt;font-family:"Tahoma","sans-serif"'> Henry Asch [mailto:henry.asch at gmail.com] <br><b>Sent:</b> Monday, July 21, 2014 6:15 PM<br><b>To:</b> Collaboratory<br><b>Subject:</b> Olin Website Contact Form Submission<o:p></o:p></span></p></div></div><p class=MsoNormal style='margin-left:.5in'><o:p>&nbsp;</o:p></p><div id=center><div id=main><p style='margin-left:.5in'><strong><span style='font-family:"Arial","sans-serif";color:#343434'>Submitted on </span></strong><span style='font-family:"Arial","sans-serif";color:#343434'>Monday, July 21, 2014 - 18:14 <o:p></o:p></span></p><p style='margin-left:.5in'><span style='font-family:"Arial","sans-serif";color:#343434'>&nbsp;<o:p></o:p></span></p><p style='margin-left:.5in'><strong><span style='font-family:"Arial","sans-serif";color:#343434'>Submitted values are: </span></strong><span style='font-family:"Arial","sans-serif";color:#343434'><o:p></o:p></span></p><div id=webform-component-name><p class=MsoNormal style='margin-left:.5in'><span style='font-family:"Arial","sans-serif";color:#343434'>Name Henry Asch <o:p></o:p></span></p></div><div id=webform-component-email-address><p class=MsoNormal style='margin-left:.5in'><span style='font-family:"Arial","sans-serif";color:#343434'>Email Address <a href="mailto:henry.asch at gmail.com">henry.asch at gmail.com</a> <o:p></o:p></span></p></div><div id=webform-component-department><p class=MsoNormal style='margin-left:.5in'><span style='font-family:"Arial","sans-serif";color:#343434'>Department Collaboratory <o:p></o:p></span></p></div><div id=webform-component-message><p class=MsoNormal style='margin-left:.5in'><span style='font-family:"Arial","sans-serif";color:#343434'>Message <o:p></o:p></span></p><div><p class=MsoNormal style='margin-left:.5in'><span style='font-family:"Arial","sans-serif";color:#343434'>Hello,<br><br>I'm a student at the Babson Summer Study program. I was hoping I could meet with a student (or professor) at Olin who could help me to design a product I'm working on. It's nothing too technological, just a container for a new type of beverage, but the eye of an engineer might be able to see things I can't. <br><br>I'd appreciate the help. I'll be at Babson for another 3 weeks. <br><br>Henry Asch<o:p></o:p></span></p></div></div></div></div></div></body></html>
+
+From Jasper.Chen at students.olin.edu  Tue Jul 22 17:30:09 2014
+From: Jasper.Chen at students.olin.edu (Jasper Chen)
+Date: Tue, 22 Jul 2014 17:30:09 -0400
+Subject: [Carpediem] Writing Part-time Gig
+In-Reply-To: <DA80C3E6C10BE94E8FCACEB239C2FEE40152882CDDB9@EXVS01.olin.edu>
+References: <CAAtrm=mU+--bnhGa4nEUiv7iXXinVpv0MLMFjuNfeMPW7P0+7Q@mail.gmail.com>,
+	<CALGmRuGiVeSiLsEntgZNoahSezzpgZwca4i0h87_5ej8Y9agNA@mail.gmail.com>,
+	<DA80C3E6C10BE94E8FCACEB239C2FEE40152882CDDB8@EXVS01.olin.edu>,
+	<DA80C3E6C10BE94E8FCACEB239C2FEE40152882CDDB9@EXVS01.olin.edu>
+Message-ID: <DA80C3E6C10BE94E8FCACEB239C2FEE40152882CDDBA@EXVS01.olin.edu>
+
+Hey!
+
+I hope you're having an awesome summer.
+I'm working for an education start-up and we're looking for someone who is excited about writing! Details below!
+Feel free to send me your application.
+
+-Jasper
+
+Persistence Plus is a double bottom line start-up that is working with colleges to engage, motivate, and support more students to completion. More than half a million college students every year drop out, and only 55% percent of all students who begin a four-year college full-time earn a diploma within six years.
+We are looking for a friendly and empathetic student with an interest in journalism or communications who wants to help people achieve better lives. Begins immediately.
+
+ *   Description:
+    *   Short-term (with possibility of extension) work interviewing college students of all ages and background and writing about their experiences
+    *   Contribute to a startup helping students succeed in college
+ *   Qualifications:
+    *   Large personal network, or ability to easily meet new people of diverse backgrounds
+    *   Responsible self-starter
+    *   Experience in interviewing and journalistic writing
+    *   Understands how to construct a compelling story
+    *   Interest in education and helping others achieve better lives
+ *   Compensation:
+    *   $8.00/hr
+
+If this sounds like you and you have this skill set, we want to hear from you! To apply, send a resume, short cover letter, and one piece of representative work (a journalism clip, an interview, etc) to info at persistenceplusnetwork.com<mailto:info at persistenceplusnetwork.com>.
+
+We are an affirmative action equal opportunity employer.
+
+
+From Jordyn.Burger at students.olin.edu  Tue Jul 22 22:19:58 2014
+From: Jordyn.Burger at students.olin.edu (Jordyn Burger)
+Date: Tue, 22 Jul 2014 22:19:58 -0400
+Subject: [Carpediem] EE opportunity!
+References: <BLU179-W796F03568B1992A7B3EBEAE4F00@phx.gbl>
+Message-ID: <A2E89A54-324A-4ABC-8EB1-37160AC26859@students.olin.edu>
+
+This is from Jessica Noglows ('13):
+
+A friend of mine recently started a company that is creating a security wristband. The EE who was working on the prototype is no longer able to work on the project and they need someone to step in and help them finish the work.
+
+They are using the Texas Instruments CC2541 chip (Bluetooth low energy sensor) and are looking for someone who has worked with this chip or at least the chip family (although I'm sure that would be happy to talk with anyone who has experience with any Bluetooth chips).  It sounds like a lot of the work is already done, but that there are a few firmware issues that need to be solved.
+
+Contact me at jessica.noglows at hotmail.com<mailto:jessica.noglows at hotmail.com> if you are interested and I'll pass your information on.
+
+
+
+
+
+
+-------------- next part --------------
+<html><head><meta http-equiv="content-type" content="text/html; charset=utf-8"></head><body dir="auto"><div>This is from Jessica Noglows ('13):</div><blockquote type="cite"><div dir="ltr"><div dir="ltr">&nbsp;</div><div dir="ltr">A friend of mine recently started a company that is creating a security wristband. The EE who was working on the prototype is no longer able to work on the project and they need someone to step in and help them finish the work.<br>&nbsp;<br>They are using the Texas Instruments CC2541 chip (Bluetooth low energy sensor)&nbsp;and are looking for someone who has worked with this chip or at least the chip family (although I'm sure that would be happy to talk with anyone who has experience with any&nbsp;Bluetooth chips).&nbsp; It sounds like a lot of the work is already done, but that there are a few firmware issues that need to be solved. <br>&nbsp;<br>Contact me at <u><font color="#5133ab">j</font></u><a href="mailto:jessica.noglows at hotmail.com"><font color="#5133ab">essica.noglows at hotmail.com</font></a> if you are interested and I'll pass your information on. <br>&nbsp;<br>&nbsp;<br>&nbsp;<br>&nbsp;<br><div dir="auto"><blockquote><div><div><div><p class="ecxMsoNormal"><u></u>&nbsp;</p></div></div></div></blockquote></div></div>
+ 		 	   		  </div>
+</blockquote><style><!--
+.hmmessage P
+{
+margin:0px;
+padding:0px
+}
+body.hmmessage
+{
+font-size: 12pt;
+font-family:Calibri
+}
+--></style></body></html>
+
+From Shane.Skikne at students.olin.edu  Wed Jul 23 00:46:42 2014
+From: Shane.Skikne at students.olin.edu (Shane Skikne)
+Date: Wed, 23 Jul 2014 00:46:42 -0400
+Subject: [Carpediem] Cookies!
+Message-ID: <DA80C3E6C10BE94E8FCACEB239C2FEE40152883C0EF6@EXVS01.olin.edu>
+
+Oh boy this summer
+is seriously a bummer.
+Your life is the daily grind
+so little on your mind,
+What do you say?
+Come our way!
+We will be awaiting you
+in sunny Mountain View
+555 West Middlefield Road
+Drop by our abode!
+
+tl;dr Bad Day Cookies in Mountain View. Come by!
+Love, 
+Shane and Erin
+
+From Halie.Murray-Davis at students.olin.edu  Sun Jul 27 16:53:28 2014
+From: Halie.Murray-Davis at students.olin.edu (Halie Murray-Davis)
+Date: Sun, 27 Jul 2014 16:53:28 -0400
+Subject: [Carpediem] All Expenses Paid Trip to Grace Hooper!
+Message-ID: <DA80C3E6C10BE94E8FCACEB239C2FEE4015288012453@EXVS01.olin.edu>
+
+For any female studying Design, Human Factors, or Human-Computer Interaction, there's a portfolio competition that could win you a full trip to Grace Hooper.
+
+Information here: http://gracehopper.salesforceux.com
+
+Good luck if you enter!
+
+Halie
+-------------- next part --------------
+<html xmlns:v="urn:schemas-microsoft-com:vml" xmlns:o="urn:schemas-microsoft-com:office:office" xmlns:w="urn:schemas-microsoft-com:office:word" xmlns:m="http://schemas.microsoft.com/office/2004/12/omml" xmlns="http://www.w3.org/TR/REC-html40"><head><meta http-equiv=Content-Type content="text/html; charset=us-ascii"><meta name=Generator content="Microsoft Word 14 (filtered medium)"><style><!--
+/* Font Definitions */
+@font-face
+	{font-family:"Cambria Math";
+	panose-1:2 4 5 3 5 4 6 3 2 4;}
+@font-face
+	{font-family:Calibri;
+	panose-1:2 15 5 2 2 2 4 3 2 4;}
+/* Style Definitions */
+p.MsoNormal, li.MsoNormal, div.MsoNormal
+	{margin:0in;
+	margin-bottom:.0001pt;
+	font-size:11.0pt;
+	font-family:"Calibri","sans-serif";}
+a:link, span.MsoHyperlink
+	{mso-style-priority:99;
+	color:blue;
+	text-decoration:underline;}
+a:visited, span.MsoHyperlinkFollowed
+	{mso-style-priority:99;
+	color:purple;
+	text-decoration:underline;}
+span.EmailStyle17
+	{mso-style-type:personal-compose;
+	font-family:"Calibri","sans-serif";
+	color:windowtext;}
+.MsoChpDefault
+	{mso-style-type:export-only;}
+@page WordSection1
+	{size:8.5in 11.0in;
+	margin:1.0in 1.0in 1.0in 1.0in;}
+div.WordSection1
+	{page:WordSection1;}
+--></style><!--[if gte mso 9]><xml>
+<o:shapedefaults v:ext="edit" spidmax="1026" />
+</xml><![endif]--><!--[if gte mso 9]><xml>
+<o:shapelayout v:ext="edit">
+<o:idmap v:ext="edit" data="1" />
+</o:shapelayout></xml><![endif]--></head><body lang=EN-US link=blue vlink=purple><div class=WordSection1><p class=MsoNormal>For any female studying Design, Human Factors, or Human-Computer Interaction, there&#8217;s a portfolio competition that could win you a full trip to Grace Hooper. <o:p></o:p></p><p class=MsoNormal><o:p>&nbsp;</o:p></p><p class=MsoNormal>Information here: <a href="http://gracehopper.salesforceux.com">http://gracehopper.salesforceux.com</a> <o:p></o:p></p><p class=MsoNormal><o:p>&nbsp;</o:p></p><p class=MsoNormal>Good luck if you enter!<o:p></o:p></p><p class=MsoNormal><o:p>&nbsp;</o:p></p><p class=MsoNormal>Halie<o:p></o:p></p></div></body></html>
+
+From christopher.lee at students.olin.edu  Mon Jul 28 03:35:03 2014
+From: christopher.lee at students.olin.edu (Chris Lee)
+Date: Mon, 28 Jul 2014 00:35:03 -0700
+Subject: [Carpediem] You like Pong?
+Message-ID: <CAPz2RoQwCOOgjJPk6zU0Nb70V76Xc6-YAzRt9UaVr_+aQ4=zqg@mail.gmail.com>
+
+[image: Inline image 2]
+Sorry, not quite.
+
+THIS PONG!
+[image: Inline image 1]
+
+BUT BETTER.
+
+You should try this new, sensational pong variant:
+https://github.com/Pong-The-Moba/play-pong-the-moba
+-------------- next part --------------
+<div dir="ltr"><div><img src="cid:ii_1477be35c1e52838" alt="Inline image 2" width="190" height="124" style="margin-right: 0px;"><br></div><div><font size="4">Sorry, not quite.?</font></div><div><font size="4"><br></font></div>
+<div><font size="6" color="#ff0000">THIS PONG!?</font></div><div><img src="cid:ii_1477be110ea0050a" alt="Inline image 1" width="190" height="138" style="margin-right: 0px;"><br></div><div><br></div><div><font size="6">BUT <font color="#6aa84f">BETTER</font>.?</font></div>
+<div><font size="6"><br></font></div><div><font size="4">You should try this new, sensational pong variant:?</font></div><div><font size="4"><a href="https://github.com/Pong-The-Moba/play-pong-the-moba">https://github.com/Pong-The-Moba/play-pong-the-moba</a><br>
+</font></div><div><font size="4"><br></font></div></div>
+-------------- next part --------------
+A non-text attachment was scrubbed...
+Name: image.png
+Type: image/png
+Size: 10019 bytes
+Desc: not available
+URL: <https://lists.olin.edu/mailman/private/carpediem/attachments/20140728/90a09d25/attachment-0002.png>
+-------------- next part --------------
+A non-text attachment was scrubbed...
+Name: image.png
+Type: image/png
+Size: 376351 bytes
+Desc: not available
+URL: <https://lists.olin.edu/mailman/private/carpediem/attachments/20140728/90a09d25/attachment-0003.png>
+
+From christopher.lee at students.olin.edu  Thu Jul 31 03:39:32 2014
+From: christopher.lee at students.olin.edu (Chris Lee)
+Date: Thu, 31 Jul 2014 00:39:32 -0700
+Subject: [Carpediem] 2014F OSS: Android Mobile Prototyping
+Message-ID: <CAPz2RoS-rZSt2FEMjs5yP+xz5QOv9mJcYgGtLDn=J8op4fb+gQ@mail.gmail.com>
+
+Hey all,
+
+As promised, Alison, Kai, and I will be offering an OSS for the fall
+semester - *Android Mobile Prototyping*. The advisor for the OSS is Paul
+Ruvolo.
+
+Because of schedule conflicts among the instructors and students, the
+course will be held on *Mondays from 8 - 9 PM and on Thursdays from 6 - 8
+PM*. Demos and lectures on Mondays, and lab time on Thursdays. Each
+instructor will also hold office hours throughout the week.
+
+If you want to take this course,* please send us an email to sign up and
+also whether or not you have access to an android phone for the course*
+(replying to this email is fine). We will be sending out more information
+before the start of the semester. Let us know if you have any questions!
+
+Also, if you know people who are interested in the course but aren't on
+carpe, please let them know about this email :).
+
+Thanks,
+MobileProto Teaching Team
+
+P.S. Even if you've previously expressed interest in taking the course,
+please let us know again (in case some people changed their minds)
+-------------- next part --------------
+<div dir="ltr">Hey all,?<div><br></div><div>As promised, Alison, Kai, and I will be offering an OSS for the fall semester - <b>Android Mobile Prototyping</b>. The advisor for the OSS is Paul Ruvolo.?</div><div><br></div><div>
+Because of schedule conflicts among the instructors and students, the course will be held on <b>Mondays from 8 - 9 PM and on Thursdays from 6 - 8 PM</b>. Demos and lectures on Mondays, and lab time on Thursdays. Each instructor will also hold office hours throughout the week.?</div>
+<div><br></div><div>If you want to take this course,<b> please send us an email to sign up and also whether or not you have access to an android phone for the course</b> (replying to this email is fine). We will be sending out more information before the start of the semester. Let us know if you have any questions!?</div>
+<div><br></div><div>Also, if you know people who are interested in the course but aren&#39;t on carpe, please let them know about this email :).?</div><div><br></div><div>Thanks,?</div><div>MobileProto Teaching Team</div>
+<div><br></div><div>P.S. Even if you&#39;ve previously expressed interest in taking the course, please let us know again (in case some people changed their minds)</div></div>
+
+From Lindsey.Andrade at students.olin.edu  Thu Jul 31 12:02:09 2014
+From: Lindsey.Andrade at students.olin.edu (Lindsey Andrade)
+Date: Thu, 31 Jul 2014 12:02:09 -0400
+Subject: [Carpediem] FREE couch
+Message-ID: <8CBEC874-0260-40B8-8BFA-4D87FF337DDB@students.olin.edu>
+
+So I got a free couch from a graduating senior and I'm passing it along. If you want it, it's yours. Be warned, it's one of those pretty shitty couches with that stupid bar in the middle of the seats but it folds out into a bed (Caleb Kissel can vouch for how comfy the bed part is). It's not super uncomfortable if you put some pillows on it. 
+
+Anyway FREE couch. Please claim it so it doesn't get thrown out. You can take it as soon as this weekend if it pleases you. 
+
+From Margaret.Lidrbauch at students.olin.edu  Thu Jul 31 20:42:03 2014
+From: Margaret.Lidrbauch at students.olin.edu (Margaret Lidrbauch)
+Date: Thu, 31 Jul 2014 20:42:03 -0400
+Subject: [Carpediem] Green Career Conference
+Message-ID: <DA80C3E6C10BE94E8FCACEB239C2FEE40152880127F4@EXVS01.olin.edu>
+
+Hey all,
+
+I just bought my ticket to this conference. It?s on a Wednesday, so if you have weekend Wednesday, then you won?t even miss class! Also, I?ll be driving, so no worries about finding a ride.
+
+Let me know if you register so that I can keep track of who I need to drive.
+
+Meg
+
+
+  [http://img-ak.verticalresponse.com/media/4/d/4/4d45e484d9/2bc11f76c3/d72cd3d9e6/library/GCC%20banner%202014%20low%20res%202.jpg]
+YOUR FUTURE IN CLEAN ENERGY AND SUSTAINABILITY
+October 1, 2014  |  Marlborough Holiday Inn
+
+www.MassGreenCareers.org<http://cts.vresp.com/c/?GreenWorkforceTraini/2bc11f76c3/f235c7c4a4/e37789788c>
+
+Program
+[http://img-ak.verticalresponse.com/media/4/d/4/4d45e484d9/2bc11f76c3/d72cd3d9e6/library/gcc%202014%20schedule%20pic.jpg]
+
+Presenters
+
+[http://img-ak.verticalresponse.com/media/4/d/4/4d45e484d9/2bc11f76c3/d72cd3d9e6/library/barkan1%202.jpg]
+
+
+[http://img-ak.verticalresponse.com/media/4/d/4/4d45e484d9/2bc11f76c3/d72cd3d9e6/library/cook1%202.jpg]
+
+[http://img-ak.verticalresponse.com/media/4/d/4/4d45e484d9/2bc11f76c3/d72cd3d9e6/library/doyle1%202.jpg]
+
+[http://img-ak.verticalresponse.com/media/4/d/4/4d45e484d9/2bc11f76c3/d72cd3d9e6/library/peltier1%202.jpg]
+
+Ben Barkan
+Home Harvest<http://cts.vresp.com/c/?GreenWorkforceTraini/2bc11f76c3/f235c7c4a4/12b77ecca7>
+
+Dan Cook
+Conservation Solutions<http://cts.vresp.com/c/?GreenWorkforceTraini/2bc11f76c3/f235c7c4a4/4447e9d49d>
+
+Kevin Doyle
+Green Economy<http://cts.vresp.com/c/?GreenWorkforceTraini/2bc11f76c3/f235c7c4a4/cdbf6afc6c>
+
+Heidi Garrett-Peltier
+PERI-UMass<http://cts.vresp.com/c/?GreenWorkforceTraini/2bc11f76c3/f235c7c4a4/f63f1535d7>
+
+[http://img-ak.verticalresponse.com/media/4/d/4/4d45e484d9/2bc11f76c3/d72cd3d9e6/library/griffin.jpg]
+
+[http://img-ak.verticalresponse.com/media/4/d/4/4d45e484d9/2bc11f76c3/d72cd3d9e6/library/mcinturff.jpg]
+
+[http://img-ak.verticalresponse.com/media/4/d/4/4d45e484d9/2bc11f76c3/d72cd3d9e6/library/mook1%202.jpg]
+
+[http://img-ak.verticalresponse.com/media/4/d/4/4d45e484d9/2bc11f76c3/d72cd3d9e6/library/plater1%202.jpg]
+
+Mary Griffin
+MA Fish, Wildlife, & Environmental Law Enforcement<http://cts.vresp.com/c/?GreenWorkforceTraini/2bc11f76c3/f235c7c4a4/c1717a6573>
+
+Bob McInturff
+Supply Chain Recruiting<http://cts.vresp.com/c/?GreenWorkforceTraini/2bc11f76c3/f235c7c4a4/304fe50c71>
+
+Galen Mook
+Landry's Bicycles<http://cts.vresp.com/c/?GreenWorkforceTraini/2bc11f76c3/f235c7c4a4/2a5c7bcd8d>
+
+Zygmunt Plater
+Environment/Law
+Boston College<http://cts.vresp.com/c/?GreenWorkforceTraini/2bc11f76c3/f235c7c4a4/8db0503143>
+
+[http://img-ak.verticalresponse.com/media/4/d/4/4d45e484d9/2bc11f76c3/d72cd3d9e6/library/rubin1%202.jpg]
+
+
+[http://img-ak.verticalresponse.com/media/4/d/4/4d45e484d9/2bc11f76c3/d72cd3d9e6/library/shipley1%202.jpg]
+
+ [http://img-ak.verticalresponse.com/media/4/d/4/4d45e484d9/2bc11f76c3/d72cd3d9e6/library/wasser1%202.jpg]
+
+[http://img-ak.verticalresponse.com/media/4/d/4/4d45e484d9/2bc11f76c3/d72cd3d9e6/library/winn1%202.jpg]
+
+Dan Rubin
+Boston Green Tourism<http://cts.vresp.com/c/?GreenWorkforceTraini/2bc11f76c3/f235c7c4a4/172619b549>
+
+Cornelia Shipley
+Design Your Life<http://cts.vresp.com/c/?GreenWorkforceTraini/2bc11f76c3/f235c7c4a4/fadf317dff>
+
+Brent Wasser
+Sustainability
+Williams College<http://cts.vresp.com/c/?GreenWorkforceTraini/2bc11f76c3/f235c7c4a4/60cc7e70e2>
+
+Bruce Winn
+Berkshire Environmental Action Team<http://cts.vresp.com/c/?GreenWorkforceTraini/2bc11f76c3/f235c7c4a4/0ce4190885>
+
+
+16 Sessions, 20 Exhibitors, 40 Presenters
+
+<http://cts.vresp.com/c/?GreenWorkforceTraini/2bc11f76c3/f235c7c4a4/5aa0f516bb>[http://img-ak.verticalresponse.com/media/4/d/4/4d45e484d9/2bc11f76c3/d72cd3d9e6/library/reg%20now.jpg]<http://cts.vresp.com/c/?GreenWorkforceTraini/2bc11f76c3/f235c7c4a4/5aa0f516bb><http://cts.vresp.com/c/?GreenWorkforceTraini/2bc11f76c3/f235c7c4a4/5aa0f516bb>
+$60 before August 26
+$75 after August 26
+$45 Students
+Groups (5 or more) can use promotional code GROUP for $5 discount
+
+www.MassGreenCareers.org<http://cts.vresp.com/c/?GreenWorkforceTraini/2bc11f76c3/f235c7c4a4/546163e65d>
+
+
+
+
+
+
+________________________________
+Click to view this email in a browser<http://hosted.verticalresponse.com/899139/2bc11f76c3/1454012733/f235c7c4a4/>
+
+If you no longer wish to receive these emails, please reply to this message with "Unsubscribe" in the subject line or simply click on the following link: Unsubscribe<http://cts.vresp.com/u?2bc11f76c3/f235c7c4a4/mlpftw>
+
+________________________________
+Conference Host
+Green Workforce Training
+Marlborough, Massachusetts 01752
+US
+
+Read<http://www.verticalresponse.com/content/pm_policy.html> the VerticalResponse marketing policy.
+
+[http://img-ak.verticalresponse.com/pwrby_vr_logo_120.gif]<http://www.verticalresponse.com/landing/ef/?mm/2bc11f76c3&utm_campaign=footer&utm_medium=referral&utm_source=footer>
+
+[http://cts.vresp.com/o.gif?2bc11f76c3/f235c7c4a4/mlpftw]
+-------------- next part --------------
+<html xmlns:v="urn:schemas-microsoft-com:vml" xmlns:o="urn:schemas-microsoft-com:office:office" xmlns:w="urn:schemas-microsoft-com:office:word" xmlns:m="http://schemas.microsoft.com/office/2004/12/omml" xmlns="http://www.w3.org/TR/REC-html40"><head><meta http-equiv=Content-Type content="text/html; charset=utf-8"><meta name=Generator content="Microsoft Word 14 (filtered medium)"><!--[if !mso]><style>v\:* {behavior:url(#default#VML);}
+o\:* {behavior:url(#default#VML);}
+w\:* {behavior:url(#default#VML);}
+.shape {behavior:url(#default#VML);}
+</style><![endif]--><title>Program &amp; Presenters</title><style><!--
+/* Font Definitions */
+@font-face
+	{font-family:"Cambria Math";
+	panose-1:2 4 5 3 5 4 6 3 2 4;}
+@font-face
+	{font-family:Calibri;
+	panose-1:2 15 5 2 2 2 4 3 2 4;}
+/* Style Definitions */
+p.MsoNormal, li.MsoNormal, div.MsoNormal
+	{margin:0in;
+	margin-bottom:.0001pt;
+	font-size:12.0pt;
+	font-family:"Times New Roman","serif";
+	color:black;}
+a:link, span.MsoHyperlink
+	{mso-style-priority:99;
+	color:#0033FF;
+	text-decoration:underline;}
+a:visited, span.MsoHyperlinkFollowed
+	{mso-style-priority:99;
+	color:#0033FF;
+	text-decoration:underline;}
+p
+	{mso-style-priority:99;
+	mso-margin-top-alt:auto;
+	margin-right:0in;
+	mso-margin-bottom-alt:auto;
+	margin-left:0in;
+	font-size:12.0pt;
+	font-family:"Times New Roman","serif";
+	color:black;}
+span.EmailStyle19
+	{mso-style-type:personal-reply;
+	font-family:"Calibri","sans-serif";
+	color:#1F497D;}
+.MsoChpDefault
+	{mso-style-type:export-only;
+	font-size:10.0pt;}
+@page WordSection1
+	{size:8.5in 11.0in;
+	margin:1.0in 1.0in 1.0in 1.0in;}
+div.WordSection1
+	{page:WordSection1;}
+--></style><!--[if gte mso 9]><xml>
+<o:shapedefaults v:ext="edit" spidmax="1027" />
+</xml><![endif]--><!--[if gte mso 9]><xml>
+<o:shapelayout v:ext="edit">
+<o:idmap v:ext="edit" data="1" />
+</o:shapelayout></xml><![endif]--></head><body bgcolor=white lang=EN-US link="#0033FF" vlink="#0033FF"><div class=WordSection1><p class=MsoNormal><span style='font-size:11.0pt;font-family:"Calibri","sans-serif";color:#1F497D'>Hey all,<o:p></o:p></span></p><p class=MsoNormal><span style='font-size:11.0pt;font-family:"Calibri","sans-serif";color:#1F497D'><o:p>&nbsp;</o:p></span></p><p class=MsoNormal><span style='font-size:11.0pt;font-family:"Calibri","sans-serif";color:#1F497D'>I just bought my ticket to this conference. It?s on a Wednesday, so if you have weekend Wednesday, then you won?t even miss class! Also, I?ll be driving, so no worries about finding a ride. <o:p></o:p></span></p><p class=MsoNormal><span style='font-size:11.0pt;font-family:"Calibri","sans-serif";color:#1F497D'><o:p>&nbsp;</o:p></span></p><p class=MsoNormal><span style='font-size:11.0pt;font-family:"Calibri","sans-serif";color:#1F497D'>Let me know if you register so that I can keep track of who I need to drive. <o:p></o:p></span></p><p class=MsoNormal><span style='font-size:11.0pt;font-family:"Calibri","sans-serif";color:#1F497D'><o:p>&nbsp;</o:p></span></p><p class=MsoNormal><span style='font-size:11.0pt;font-family:"Calibri","sans-serif";color:#1F497D'>Meg<o:p></o:p></span></p><p class=MsoNormal><o:p>&nbsp;</o:p></p><p class=MsoNormal><span style='font-size:9.0pt;font-family:"Arial","sans-serif"'>&nbsp; <o:p></o:p></span></p><div align=center><table class=MsoNormalTable border=1 cellspacing=0 cellpadding=0 width=580 style='width:435.0pt;background:white;border:solid #AACB5D 6.0pt'><tr><td style='border:none;padding:0in 0in 0in 0in'><p class=MsoNormal>&nbsp;&nbsp;<img width=575 height=144 id="_x0000_i1025" src="http://img-ak.verticalresponse.com/media/4/d/4/4d45e484d9/2bc11f76c3/d72cd3d9e6/library/GCC%20banner%202014%20low%20res%202.jpg" alt="GCC banner 2014 low res 2">&nbsp;&nbsp; <o:p></o:p></p><div align=center><table class=MsoNormalTable border=0 cellspacing=5 cellpadding=0 width=575 style='width:431.25pt'><tr><td style='padding:3.75pt 3.75pt 3.75pt 3.75pt'><p class=MsoNormal align=center style='text-align:center'><b><span style='font-family:"Arial","sans-serif";color:green'>YOUR FUTURE IN CLEAN ENERGY AND SUSTAINABILITY</span></b><o:p></o:p></p><p class=MsoNormal align=center style='text-align:center'><strong><span style='font-family:"Arial","sans-serif";color:blue'>October 1, 2014 &nbsp;| &nbsp;Marlborough Holiday Inn</span></strong><span style='font-family:"Arial","sans-serif";color:blue'><br><br><a href="http://cts.vresp.com/c/?GreenWorkforceTraini/2bc11f76c3/f235c7c4a4/e37789788c">www.MassGreenCareers.org</a></span><o:p></o:p></p><div><p class=MsoNormal align=center style='text-align:center'><br><span style='font-size:14.0pt;font-family:"Arial","sans-serif"'>Program</span><o:p></o:p></p></div><div><p class=MsoNormal align=center style='text-align:center'><img border=0 width=550 height=402 id="_x0000_i1026" src="http://img-ak.verticalresponse.com/media/4/d/4/4d45e484d9/2bc11f76c3/d72cd3d9e6/library/gcc%202014%20schedule%20pic.jpg" alt="gcc 2014 schedule pic"><br><br><span style='font-size:14.0pt;font-family:"Arial","sans-serif"'>Presenters&nbsp;</span><o:p></o:p></p></div><div><p class=MsoNormal align=center style='text-align:center'>&nbsp;<o:p></o:p></p></div><div align=center><table class=MsoNormalTable border=0 cellspacing=3 cellpadding=0 width=500 style='width:375.0pt'><tr><td style='padding:2.25pt 2.25pt 2.25pt 2.25pt'><p class=MsoNormal><img border=0 width=75 height=87 id="_x0000_i1027" src="http://img-ak.verticalresponse.com/media/4/d/4/4d45e484d9/2bc11f76c3/d72cd3d9e6/library/barkan1%202.jpg" alt="barkan1 2"><br>&nbsp;<o:p></o:p></p></td><td style='padding:2.25pt 2.25pt 2.25pt 2.25pt'><p class=MsoNormal><img border=0 width=73 height=87 id="_x0000_i1028" src="http://img-ak.verticalresponse.com/media/4/d/4/4d45e484d9/2bc11f76c3/d72cd3d9e6/library/cook1%202.jpg" alt="cook1 2"><o:p></o:p></p></td><td style='padding:2.25pt 2.25pt 2.25pt 2.25pt'><p class=MsoNormal><img border=0 width=68 height=87 id="_x0000_i1029" src="http://img-ak.verticalresponse.com/media/4/d/4/4d45e484d9/2bc11f76c3/d72cd3d9e6/library/doyle1%202.jpg" alt="doyle1 2"><o:p></o:p></p></td><td style='padding:2.25pt 2.25pt 2.25pt 2.25pt'><p class=MsoNormal><img border=0 width=65 height=87 id="_x0000_i1030" src="http://img-ak.verticalresponse.com/media/4/d/4/4d45e484d9/2bc11f76c3/d72cd3d9e6/library/peltier1%202.jpg" alt="peltier1 2"><o:p></o:p></p></td></tr><tr><td valign=top style='padding:2.25pt 2.25pt 2.25pt 2.25pt'><p class=MsoNormal align=center style='text-align:center'><strong><span style='font-size:10.0pt;font-family:"Arial","sans-serif"'>Ben Barkan</span></strong><span style='font-size:10.0pt;font-family:"Arial","sans-serif"'><br><a href="http://cts.vresp.com/c/?GreenWorkforceTraini/2bc11f76c3/f235c7c4a4/12b77ecca7">Home Harvest</a></span><o:p></o:p></p></td><td valign=top style='padding:2.25pt 2.25pt 2.25pt 2.25pt'><p class=MsoNormal align=center style='text-align:center'><strong><span style='font-size:10.0pt;font-family:"Arial","sans-serif"'>Dan Cook</span></strong><span style='font-size:10.0pt;font-family:"Arial","sans-serif"'><br><a href="http://cts.vresp.com/c/?GreenWorkforceTraini/2bc11f76c3/f235c7c4a4/4447e9d49d">Conservation Solutions</a></span><o:p></o:p></p></td><td valign=top style='padding:2.25pt 2.25pt 2.25pt 2.25pt'><p class=MsoNormal align=center style='text-align:center'><strong><span style='font-size:10.0pt;font-family:"Arial","sans-serif"'>Kevin Doyle</span></strong><span style='font-size:10.0pt;font-family:"Arial","sans-serif"'><br><a href="http://cts.vresp.com/c/?GreenWorkforceTraini/2bc11f76c3/f235c7c4a4/cdbf6afc6c">Green Economy</a></span><o:p></o:p></p></td><td valign=top style='padding:2.25pt 2.25pt 2.25pt 2.25pt'><p class=MsoNormal align=center style='text-align:center'><strong><span style='font-size:10.0pt;font-family:"Arial","sans-serif"'>Heidi Garrett-Peltier</span></strong><span style='font-size:10.0pt;font-family:"Arial","sans-serif"'><br><a href="http://cts.vresp.com/c/?GreenWorkforceTraini/2bc11f76c3/f235c7c4a4/f63f1535d7">PERI-UMass</a></span><o:p></o:p></p></td></tr><tr><td style='padding:2.25pt 2.25pt 2.25pt 2.25pt'><p class=MsoNormal><img border=0 width=72 height=87 id="_x0000_i1031" src="http://img-ak.verticalresponse.com/media/4/d/4/4d45e484d9/2bc11f76c3/d72cd3d9e6/library/griffin.jpg" alt=griffin><o:p></o:p></p></td><td style='padding:2.25pt 2.25pt 2.25pt 2.25pt'><p class=MsoNormal><img border=0 width=75 height=87 id="_x0000_i1032" src="http://img-ak.verticalresponse.com/media/4/d/4/4d45e484d9/2bc11f76c3/d72cd3d9e6/library/mcinturff.jpg" alt=mcinturff><o:p></o:p></p></td><td style='padding:2.25pt 2.25pt 2.25pt 2.25pt'><p class=MsoNormal><img border=0 width=66 height=87 id="_x0000_i1033" src="http://img-ak.verticalresponse.com/media/4/d/4/4d45e484d9/2bc11f76c3/d72cd3d9e6/library/mook1%202.jpg" alt="mook1 2"><o:p></o:p></p></td><td style='padding:2.25pt 2.25pt 2.25pt 2.25pt'><p class=MsoNormal><img border=0 width=68 height=87 id="_x0000_i1034" src="http://img-ak.verticalresponse.com/media/4/d/4/4d45e484d9/2bc11f76c3/d72cd3d9e6/library/plater1%202.jpg" alt="plater1 2"><o:p></o:p></p></td></tr><tr><td valign=top style='padding:2.25pt 2.25pt 2.25pt 2.25pt'><p class=MsoNormal align=center style='text-align:center'><strong><span style='font-size:10.0pt;font-family:"Arial","sans-serif"'>Mary Griffin</span></strong><span style='font-size:10.0pt;font-family:"Arial","sans-serif"'><br><a href="http://cts.vresp.com/c/?GreenWorkforceTraini/2bc11f76c3/f235c7c4a4/c1717a6573">MA Fish, Wildlife, &amp; Environmental Law Enforcement</a></span><o:p></o:p></p></td><td valign=top style='padding:2.25pt 2.25pt 2.25pt 2.25pt'><p class=MsoNormal align=center style='text-align:center'><strong><span style='font-size:10.0pt;font-family:"Arial","sans-serif"'>Bob McInturff</span></strong><span style='font-size:10.0pt;font-family:"Arial","sans-serif"'><br><a href="http://cts.vresp.com/c/?GreenWorkforceTraini/2bc11f76c3/f235c7c4a4/304fe50c71">Supply Chain Recruiting</a></span><o:p></o:p></p></td><td valign=top style='padding:2.25pt 2.25pt 2.25pt 2.25pt'><p class=MsoNormal align=center style='text-align:center'><strong><span style='font-size:10.0pt;font-family:"Arial","sans-serif"'>Galen Mook</span></strong><span style='font-size:10.0pt;font-family:"Arial","sans-serif"'><br><a href="http://cts.vresp.com/c/?GreenWorkforceTraini/2bc11f76c3/f235c7c4a4/2a5c7bcd8d">Landry's Bicycles</a></span><o:p></o:p></p></td><td valign=top style='padding:2.25pt 2.25pt 2.25pt 2.25pt'><p class=MsoNormal align=center style='text-align:center'><strong><span style='font-size:10.0pt;font-family:"Arial","sans-serif"'>Zygmunt Plater</span></strong><span style='font-size:10.0pt;font-family:"Arial","sans-serif"'><br><a href="http://cts.vresp.com/c/?GreenWorkforceTraini/2bc11f76c3/f235c7c4a4/8db0503143">Environment/Law<br>Boston College</a></span><o:p></o:p></p></td></tr><tr><td style='padding:2.25pt 2.25pt 2.25pt 2.25pt'><p class=MsoNormal><img border=0 width=68 height=87 id="_x0000_i1035" src="http://img-ak.verticalresponse.com/media/4/d/4/4d45e484d9/2bc11f76c3/d72cd3d9e6/library/rubin1%202.jpg" alt="rubin1 2"><br>&nbsp;<o:p></o:p></p></td><td style='padding:2.25pt 2.25pt 2.25pt 2.25pt'><p class=MsoNormal><img border=0 width=62 height=87 id="_x0000_i1036" src="http://img-ak.verticalresponse.com/media/4/d/4/4d45e484d9/2bc11f76c3/d72cd3d9e6/library/shipley1%202.jpg" alt="shipley1 2"><o:p></o:p></p></td><td style='padding:2.25pt 2.25pt 2.25pt 2.25pt'><p class=MsoNormal>&nbsp;<img border=0 width=67 height=87 id="_x0000_i1037" src="http://img-ak.verticalresponse.com/media/4/d/4/4d45e484d9/2bc11f76c3/d72cd3d9e6/library/wasser1%202.jpg" alt="wasser1 2"><o:p></o:p></p></td><td style='padding:2.25pt 2.25pt 2.25pt 2.25pt'><p class=MsoNormal><img border=0 width=77 height=87 id="_x0000_i1038" src="http://img-ak.verticalresponse.com/media/4/d/4/4d45e484d9/2bc11f76c3/d72cd3d9e6/library/winn1%202.jpg" alt="winn1 2"><o:p></o:p></p></td></tr><tr><td width=100 valign=top style='width:75.0pt;padding:2.25pt 2.25pt 2.25pt 2.25pt'><p class=MsoNormal align=center style='text-align:center'><strong><span style='font-size:10.0pt;font-family:"Arial","sans-serif"'>Dan Rubin</span></strong><span style='font-size:10.0pt;font-family:"Arial","sans-serif"'><br><a href="http://cts.vresp.com/c/?GreenWorkforceTraini/2bc11f76c3/f235c7c4a4/172619b549">Boston Green Tourism</a></span><o:p></o:p></p></td><td width=100 valign=top style='width:75.0pt;padding:2.25pt 2.25pt 2.25pt 2.25pt'><p class=MsoNormal align=center style='text-align:center'><strong><span style='font-size:10.0pt;font-family:"Arial","sans-serif"'>Cornelia Shipley</span></strong><span style='font-size:10.0pt;font-family:"Arial","sans-serif"'><br><a href="http://cts.vresp.com/c/?GreenWorkforceTraini/2bc11f76c3/f235c7c4a4/fadf317dff">Design Your Life</a></span><o:p></o:p></p></td><td width=100 valign=top style='width:75.0pt;padding:2.25pt 2.25pt 2.25pt 2.25pt'><p class=MsoNormal align=center style='text-align:center'><strong><span style='font-size:10.0pt;font-family:"Arial","sans-serif"'>Brent Wasser</span></strong><span style='font-size:10.0pt;font-family:"Arial","sans-serif"'><br><a href="http://cts.vresp.com/c/?GreenWorkforceTraini/2bc11f76c3/f235c7c4a4/60cc7e70e2">Sustainability<br>Williams College</a></span><o:p></o:p></p></td><td width=100 valign=top style='width:75.0pt;padding:2.25pt 2.25pt 2.25pt 2.25pt'><p class=MsoNormal align=center style='text-align:center'><strong><span style='font-size:10.0pt;font-family:"Arial","sans-serif"'>Bruce Winn</span></strong><span style='font-size:10.0pt;font-family:"Arial","sans-serif"'><br><a href="http://cts.vresp.com/c/?GreenWorkforceTraini/2bc11f76c3/f235c7c4a4/0ce4190885">Berkshire Environmental Action Team</a></span><o:p></o:p></p></td></tr></table></div><div><p class=MsoNormal align=center style='text-align:center'><br><span style='font-size:14.0pt;font-family:"Arial","sans-serif"'>16 Sessions, 20 Exhibitors, 40 Presenters</span><br><br><a href="http://cts.vresp.com/c/?GreenWorkforceTraini/2bc11f76c3/f235c7c4a4/5aa0f516bb"></a><!--[if gte vml 1]><v:shapetype id="_x0000_t75" coordsize="21600,21600" o:spt="75" o:preferrelative="t" path="m at 4@5l at 4@11 at 9@11 at 9@5xe" filled="f" stroked="f">
+<v:stroke joinstyle="miter" />
+<v:formulas>
+<v:f eqn="if lineDrawn pixelLineWidth 0" />
+<v:f eqn="sum @0 1 0" />
+<v:f eqn="sum 0 0 @1" />
+<v:f eqn="prod @2 1 2" />
+<v:f eqn="prod @3 21600 pixelWidth" />
+<v:f eqn="prod @3 21600 pixelHeight" />
+<v:f eqn="sum @0 0 1" />
+<v:f eqn="prod @6 1 2" />
+<v:f eqn="prod @7 21600 pixelWidth" />
+<v:f eqn="sum @8 21600 0" />
+<v:f eqn="prod @7 21600 pixelHeight" />
+<v:f eqn="sum @10 21600 0" />
+</v:formulas>
+<v:path o:extrusionok="f" gradientshapeok="t" o:connecttype="rect" />
+<o:lock v:ext="edit" aspectratio="t" />
+</v:shapetype><v:shape id="_x0000_s1026" type="#_x0000_t75" alt="reg now" href="http://cts.vresp.com/c/?GreenWorkforceTraini/2bc11f76c3/f235c7c4a4/5aa0f516bb" style='position:absolute;left:0;text-align:left;margin-left:8.8pt;margin-top:0;width:60pt;height:36.75pt;z-index:251658240;mso-wrap-distance-left:2.25pt;mso-wrap-distance-top:2.25pt;mso-wrap-distance-right:2.25pt;mso-wrap-distance-bottom:2.25pt;mso-position-horizontal:right;mso-position-horizontal-relative:text;mso-position-vertical-relative:line' o:allowoverlap="f" o:button="t">
+<v:imagedata src="http://img-ak.verticalresponse.com/media/4/d/4/4d45e484d9/2bc11f76c3/d72cd3d9e6/library/reg%20now.jpg" />
+<w:wrap type="square"/>
+</v:shape><![endif]--><![if !vml]><a href="http://cts.vresp.com/c/?GreenWorkforceTraini/2bc11f76c3/f235c7c4a4/5aa0f516bb"><img border=0 width=80 height=49 src="http://img-ak.verticalresponse.com/media/4/d/4/4d45e484d9/2bc11f76c3/d72cd3d9e6/library/reg%20now.jpg" align=right hspace=3 vspace=3 alt="reg now" v:shapes="_x0000_s1026"></a><![endif]><a href="http://cts.vresp.com/c/?GreenWorkforceTraini/2bc11f76c3/f235c7c4a4/5aa0f516bb"></a><o:p></o:p></p></div><p class=MsoNormal><span style='font-size:10.0pt;font-family:"Arial","sans-serif"'>$60 before August 26<br>$75 after August 26<br>$45 Students<br>Groups (5 or more) can use promotional code GROUP for $5 discount</span><br>&nbsp;<o:p></o:p></p><div><p class=MsoNormal align=center style='text-align:center'><strong><span style='font-size:14.0pt;font-family:"Arial","sans-serif"'><a href="http://cts.vresp.com/c/?GreenWorkforceTraini/2bc11f76c3/f235c7c4a4/546163e65d">www.MassGreenCareers.org</a></span></strong><o:p></o:p></p></div></td></tr></table></div></td></tr><tr><td style='border:none;background:black;padding:0in 0in 0in 0in'><div><p class=MsoNormal>&nbsp;<o:p></o:p></p></div></td></tr></table></div><p class=MsoNormal><span style='font-size:9.0pt;font-family:"Arial","sans-serif"'><br><br clear=all><o:p></o:p></span></p><div class=MsoNormal align=center style='text-align:center'><span style='font-size:9.0pt;font-family:"Arial","sans-serif"'><hr size=2 width="100%" align=center></span></div><table class=MsoNormalTable border=0 cellspacing=0 cellpadding=0 width="100%" style='width:100.0%'><tr><td style='padding:3.75pt 3.75pt 3.75pt 3.75pt'><p class=MsoNormal><span style='font-size:7.5pt;font-family:"Arial","sans-serif"'><a href="http://hosted.verticalresponse.com/899139/2bc11f76c3/1454012733/f235c7c4a4/">Click to view this email in a browser</a> <br><br>If you no longer wish to receive these emails, please reply to this message with &quot;Unsubscribe&quot; in the subject line or simply click on the following link: <a href="http://cts.vresp.com/u?2bc11f76c3/f235c7c4a4/mlpftw">Unsubscribe</a> </span><o:p></o:p></p></td></tr></table><div class=MsoNormal align=center style='text-align:center'><span style='font-size:9.0pt;font-family:"Arial","sans-serif"'><hr size=2 width="100%" align=center></span></div><table class=MsoNormalTable border=0 cellspacing=0 cellpadding=0 width="100%" style='width:100.0%'><tr><td style='padding:3.75pt 3.75pt 3.75pt 3.75pt'><p class=MsoNormal><span style='font-size:7.5pt;font-family:"Arial","sans-serif"'>Conference Host<br>Green Workforce Training<br>Marlborough, Massachusetts 01752<br>US<o:p></o:p></span></p><p><span style='font-size:7.5pt;font-family:"Arial","sans-serif"'><a href="http://www.verticalresponse.com/content/pm_policy.html" target="_blank">Read</a> the VerticalResponse marketing policy. <o:p></o:p></span></p></td><td style='padding:3.75pt 3.75pt 3.75pt 3.75pt'><p class=MsoNormal align=right style='text-align:right'><a href="http://www.verticalresponse.com/landing/ef/?mm/2bc11f76c3&amp;utm_campaign=footer&amp;utm_medium=referral&amp;utm_source=footer" target="_blank"><span style='text-decoration:none'><img border=0 id="_x0000_i1041" src="http://img-ak.verticalresponse.com/pwrby_vr_logo_120.gif" alt="Try Email Marketing with VerticalResponse!"></span></a><o:p></o:p></p></td></tr></table><p class=MsoNormal><span style='font-size:9.0pt;font-family:"Arial","sans-serif"'><img border=0 id="_x0000_i1042" src="http://cts.vresp.com/o.gif?2bc11f76c3/f235c7c4a4/mlpftw"><o:p></o:p></span></p></div></body></html>
